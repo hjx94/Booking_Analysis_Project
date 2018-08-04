@@ -8,6 +8,7 @@ from nltk.corpus import stopwords
 from nltk.stem.wordnet import WordNetLemmatizer
 from textblob import TextBlob
 import matplotlib.pyplot as plt
+from wordcloud import WordCloud
 
 #class ReviewAnalysis:
 #    def __init__(self, dataset):
@@ -156,3 +157,20 @@ def difference_mean(df, number):
     sns.barplot(data=diff, x='feature', y='difference')
     plt.xticks(rotation=90)
     plt.show()
+
+def wordcloud_maker(string):
+    wordcloud = WordCloud(collocations=False,width=480, height=480, margin=0).generate(string)
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.axis("off")
+    plt.margins(x=0, y=0)
+    plt.show()
+
+def sentiment_analysis_city(dataFrame):
+    g = sns.lmplot( x="senti_x", y="Score", data=dataFrame, fit_reg=False, hue='Label', scatter_kws={"s": 50}, size=10, legend_out = True)
+    ax = plt.gca()
+    g._legend.set_title("Hotel Cluster")
+    # replace labels
+    new_labels = ['Low', 'Medium', 'High']
+    for t, l in zip(g._legend.texts, new_labels): t.set_text(l)
+    ax.set_title("User Satisfaction vs Rating of Hotel")
+    ax.set(xlabel='User Satisfaction Score of Hotel', ylabel='Rating of Hotel')
