@@ -1,0 +1,3011 @@
+Keyword,Frequency,name
+room,11936,Hotel Pennsylvania
+location,6935,Hotel Pennsylvania
+hotel,6591,Hotel Pennsylvania
+staff,3110,Hotel Pennsylvania
+old,3030,Hotel Pennsylvania
+room,3986,Radisson Martinique on Broadway
+location,2722,Radisson Martinique on Broadway
+staff,2050,Radisson Martinique on Broadway
+hotel,1854,Radisson Martinique on Broadway
+great,1330,Radisson Martinique on Broadway
+room,813,Residence Inn by Marriott New York Manhattan/Times Square
+breakfast,758,Residence Inn by Marriott New York Manhattan/Times Square
+location,654,Residence Inn by Marriott New York Manhattan/Times Square
+staff,442,Residence Inn by Marriott New York Manhattan/Times Square
+great,378,Residence Inn by Marriott New York Manhattan/Times Square
+room,327,MADE Hotel
+staff,207,MADE Hotel
+hotel,191,MADE Hotel
+great,153,MADE Hotel
+bed,124,MADE Hotel
+apartment,7,"Perfect 3 BR, Midtown East, Doorman Apt"
+room,6,"Perfect 3 BR, Midtown East, Doorman Apt"
+kitchen,6,"Perfect 3 BR, Midtown East, Doorman Apt"
+great,6,"Perfect 3 BR, Midtown East, Doorman Apt"
+location,5,"Perfect 3 BR, Midtown East, Doorman Apt"
+room,554,LUMA Hotel - Times Square
+staff,396,LUMA Hotel - Times Square
+location,354,LUMA Hotel - Times Square
+hotel,337,LUMA Hotel - Times Square
+great,251,LUMA Hotel - Times Square
+room,2155,The Watson Hotel
+location,1110,The Watson Hotel
+hotel,1023,The Watson Hotel
+staff,879,The Watson Hotel
+great,662,The Watson Hotel
+room,1778,The Hotel at Times Square
+location,1447,The Hotel at Times Square
+breakfast,1259,The Hotel at Times Square
+hotel,759,The Hotel at Times Square
+staff,742,The Hotel at Times Square
+view,105,Splendid Apartment by Times SQ
+apartment,103,Splendid Apartment by Times SQ
+location,69,Splendid Apartment by Times SQ
+great,50,Splendid Apartment by Times SQ
+time,49,Splendid Apartment by Times SQ
+room,910,"The Standard, High Line New York"
+view,484,"The Standard, High Line New York"
+great,444,"The Standard, High Line New York"
+hotel,438,"The Standard, High Line New York"
+location,433,"The Standard, High Line New York"
+room,1606,citizenM New York Times Square
+hotel,770,citizenM New York Times Square
+location,739,citizenM New York Times Square
+great,729,citizenM New York Times Square
+staff,708,citizenM New York Times Square
+room,4954,Hotel Edison Times Square
+location,3054,Hotel Edison Times Square
+hotel,2078,Hotel Edison Times Square
+staff,1641,Hotel Edison Times Square
+time,1624,Hotel Edison Times Square
+room,1866,Wellington Hotel
+location,1339,Wellington Hotel
+hotel,904,Wellington Hotel
+staff,718,Wellington Hotel
+great,572,Wellington Hotel
+room,759,Gansevoort Meatpacking
+hotel,433,Gansevoort Meatpacking
+location,412,Gansevoort Meatpacking
+great,368,Gansevoort Meatpacking
+staff,348,Gansevoort Meatpacking
+room,1574,Courtyard by Marriott New York Manhattan/Central Park
+location,919,Courtyard by Marriott New York Manhattan/Central Park
+hotel,574,Courtyard by Marriott New York Manhattan/Central Park
+staff,540,Courtyard by Marriott New York Manhattan/Central Park
+great,460,Courtyard by Marriott New York Manhattan/Central Park
+room,932,Hyatt Centric Times Square New York
+location,646,Hyatt Centric Times Square New York
+staff,557,Hyatt Centric Times Square New York
+hotel,455,Hyatt Centric Times Square New York
+time,397,Hyatt Centric Times Square New York
+room,388,"The Langham, New York, Fifth Avenue"
+staff,310,"The Langham, New York, Fifth Avenue"
+hotel,209,"The Langham, New York, Fifth Avenue"
+location,179,"The Langham, New York, Fifth Avenue"
+great,165,"The Langham, New York, Fifth Avenue"
+location,12,Tribeca Lofts
+work,9,Tribeca Lofts
+building,8,Tribeca Lofts
+great,8,Tribeca Lofts
+property,8,Tribeca Lofts
+location,1062,Radio City Apartments
+room,856,Radio City Apartments
+staff,546,Radio City Apartments
+great,469,Radio City Apartments
+time,390,Radio City Apartments
+room,1177,Warwick New York
+location,750,Warwick New York
+hotel,594,Warwick New York
+staff,533,Warwick New York
+great,375,Warwick New York
+room,41,The Assemblage John Street
+staff,20,The Assemblage John Street
+great,15,The Assemblage John Street
+location,13,The Assemblage John Street
+hotel,13,The Assemblage John Street
+room,1390,Grand Hyatt New York
+location,829,Grand Hyatt New York
+hotel,592,Grand Hyatt New York
+staff,486,Grand Hyatt New York
+great,343,Grand Hyatt New York
+room,1899,Crowne Plaza Times Square
+location,1501,Crowne Plaza Times Square
+staff,906,Crowne Plaza Times Square
+hotel,850,Crowne Plaza Times Square
+great,696,Crowne Plaza Times Square
+room,1003,Executive Hotel Le Soleil New York
+staff,539,Executive Hotel Le Soleil New York
+location,515,Executive Hotel Le Soleil New York
+hotel,441,Executive Hotel Le Soleil New York
+great,299,Executive Hotel Le Soleil New York
+staff,199,AKA Times Square
+location,198,AKA Times Square
+room,173,AKA Times Square
+apartment,165,AKA Times Square
+time,121,AKA Times Square
+room,255,AKA Central Park
+location,220,AKA Central Park
+staff,144,AKA Central Park
+hotel,104,AKA Central Park
+great,104,AKA Central Park
+room,762,Hyatt Place New York/Midtown-South
+breakfast,657,Hyatt Place New York/Midtown-South
+location,565,Hyatt Place New York/Midtown-South
+staff,452,Hyatt Place New York/Midtown-South
+great,341,Hyatt Place New York/Midtown-South
+location,3,Gramercy Townhouse
+property,2,Gramercy Townhouse
+fine,2,Gramercy Townhouse
+great,2,Gramercy Townhouse
+apartment,2,Gramercy Townhouse
+room,792,InterContinental New York Times Square
+location,552,InterContinental New York Times Square
+hotel,482,InterContinental New York Times Square
+staff,465,InterContinental New York Times Square
+bed,298,InterContinental New York Times Square
+room,1478,La Quinta Inn & Suites Manhattan
+breakfast,1065,La Quinta Inn & Suites Manhattan
+location,1044,La Quinta Inn & Suites Manhattan
+hotel,610,La Quinta Inn & Suites Manhattan
+staff,603,La Quinta Inn & Suites Manhattan
+room,476,Hyatt House New York/Chelsea
+breakfast,307,Hyatt House New York/Chelsea
+staff,259,Hyatt House New York/Chelsea
+location,240,Hyatt House New York/Chelsea
+view,236,Hyatt House New York/Chelsea
+room,512,"The Beekman, a Thompson Hotel"
+hotel,511,"The Beekman, a Thompson Hotel"
+staff,350,"The Beekman, a Thompson Hotel"
+great,233,"The Beekman, a Thompson Hotel"
+bar,181,"The Beekman, a Thompson Hotel"
+room,816,New York Marriott Marquis
+location,667,New York Marriott Marquis
+hotel,434,New York Marriott Marquis
+time,329,New York Marriott Marquis
+staff,308,New York Marriott Marquis
+room,952,Broadway at Times Square Hotel
+location,796,Broadway at Times Square Hotel
+staff,571,Broadway at Times Square Hotel
+breakfast,566,Broadway at Times Square Hotel
+time,391,Broadway at Times Square Hotel
+room,989,MOXY NYC Times Square
+hotel,489,MOXY NYC Times Square
+location,411,MOXY NYC Times Square
+staff,382,MOXY NYC Times Square
+great,340,MOXY NYC Times Square
+room,996,Cambria Hotel New York - Times Square
+location,774,Cambria Hotel New York - Times Square
+staff,509,Cambria Hotel New York - Times Square
+hotel,493,Cambria Hotel New York - Times Square
+great,430,Cambria Hotel New York - Times Square
+room,824,Blakely New York Hotel
+location,546,Blakely New York Hotel
+breakfast,499,Blakely New York Hotel
+hotel,493,Blakely New York Hotel
+staff,490,Blakely New York Hotel
+room,587,Archer Hotel New York
+staff,339,Archer Hotel New York
+hotel,240,Archer Hotel New York
+location,237,Archer Hotel New York
+small,222,Archer Hotel New York
+room,351,Nolitan Hotel SoHo - New York
+staff,274,Nolitan Hotel SoHo - New York
+location,225,Nolitan Hotel SoHo - New York
+hotel,202,Nolitan Hotel SoHo - New York
+great,184,Nolitan Hotel SoHo - New York
+room,1206,Millennium Broadway Times Square
+location,900,Millennium Broadway Times Square
+hotel,574,Millennium Broadway Times Square
+staff,568,Millennium Broadway Times Square
+time,450,Millennium Broadway Times Square
+room,1107,New York Hilton Midtown
+location,731,New York Hilton Midtown
+hotel,477,New York Hilton Midtown
+staff,403,New York Hilton Midtown
+great,328,New York Hilton Midtown
+room,1667,Element Times Square West
+breakfast,1357,Element Times Square West
+location,932,Element Times Square West
+elevator,926,Element Times Square West
+time,809,Element Times Square West
+room,620,Ace Hotel New York
+hotel,285,Ace Hotel New York
+great,272,Ace Hotel New York
+staff,234,Ace Hotel New York
+location,222,Ace Hotel New York
+room,1032,TRYP by Wyndham Times Square South
+location,463,TRYP by Wyndham Times Square South
+staff,406,TRYP by Wyndham Times Square South
+hotel,404,TRYP by Wyndham Times Square South
+great,334,TRYP by Wyndham Times Square South
+room,542,"LIFE Hotel, NoMad"
+hotel,248,"LIFE Hotel, NoMad"
+staff,197,"LIFE Hotel, NoMad"
+bed,191,"LIFE Hotel, NoMad"
+location,175,"LIFE Hotel, NoMad"
+room,3589,"Hudson New York, Central Park"
+location,1497,"Hudson New York, Central Park"
+hotel,1396,"Hudson New York, Central Park"
+small,1208,"Hudson New York, Central Park"
+staff,1028,"Hudson New York, Central Park"
+room,395,Lombardy Hotel
+breakfast,183,Lombardy Hotel
+location,174,Lombardy Hotel
+staff,166,Lombardy Hotel
+hotel,147,Lombardy Hotel
+room,1464,Arlo SoHo
+hotel,635,Arlo SoHo
+staff,594,Arlo SoHo
+great,565,Arlo SoHo
+small,519,Arlo SoHo
+room,450,Wingate by Wyndham Manhattan Midtown
+location,306,Wingate by Wyndham Manhattan Midtown
+breakfast,297,Wingate by Wyndham Manhattan Midtown
+staff,203,Wingate by Wyndham Manhattan Midtown
+hotel,195,Wingate by Wyndham Manhattan Midtown
+room,575,"Club Quarters Hotel, Opposite Rockefeller Center"
+location,531,"Club Quarters Hotel, Opposite Rockefeller Center"
+staff,284,"Club Quarters Hotel, Opposite Rockefeller Center"
+hotel,240,"Club Quarters Hotel, Opposite Rockefeller Center"
+great,218,"Club Quarters Hotel, Opposite Rockefeller Center"
+location,4,Beautiful Manhattan Apartment
+apartment,3,Beautiful Manhattan Apartment
+place,3,Beautiful Manhattan Apartment
+great,3,Beautiful Manhattan Apartment
+park,3,Beautiful Manhattan Apartment
+apartment,8,Midtown West 2 Bedroom Apartment
+u,7,Midtown West 2 Bedroom Apartment
+location,6,Midtown West 2 Bedroom Apartment
+good,6,Midtown West 2 Bedroom Apartment
+one,4,Midtown West 2 Bedroom Apartment
+room,640,Residence Inn by Marriott New York Manhattan/Central Park
+view,360,Residence Inn by Marriott New York Manhattan/Central Park
+breakfast,351,Residence Inn by Marriott New York Manhattan/Central Park
+location,308,Residence Inn by Marriott New York Manhattan/Central Park
+great,229,Residence Inn by Marriott New York Manhattan/Central Park
+room,1034,The Evelyn
+location,553,The Evelyn
+hotel,442,The Evelyn
+staff,432,The Evelyn
+great,357,The Evelyn
+room,32,The Gatsby Hotel
+location,18,The Gatsby Hotel
+staff,14,The Gatsby Hotel
+hotel,13,The Gatsby Hotel
+clean,13,The Gatsby Hotel
+room,643,Holiday Inn Express - Times Square South
+breakfast,537,Holiday Inn Express - Times Square South
+location,495,Holiday Inn Express - Times Square South
+staff,357,Holiday Inn Express - Times Square South
+good,288,Holiday Inn Express - Times Square South
+room,2724,"The New Yorker, A Wyndham Hotel"
+location,1590,"The New Yorker, A Wyndham Hotel"
+hotel,1178,"The New Yorker, A Wyndham Hotel"
+staff,967,"The New Yorker, A Wyndham Hotel"
+great,777,"The New Yorker, A Wyndham Hotel"
+room,1023,Fairfield Inn & Suites By Marriott New York Manhattan/Times Square
+breakfast,946,Fairfield Inn & Suites By Marriott New York Manhattan/Times Square
+staff,619,Fairfield Inn & Suites By Marriott New York Manhattan/Times Square
+location,593,Fairfield Inn & Suites By Marriott New York Manhattan/Times Square
+hotel,477,Fairfield Inn & Suites By Marriott New York Manhattan/Times Square
+room,1064,La Quinta Inn & Suites New York City Central Park
+location,501,La Quinta Inn & Suites New York City Central Park
+breakfast,483,La Quinta Inn & Suites New York City Central Park
+small,471,La Quinta Inn & Suites New York City Central Park
+staff,386,La Quinta Inn & Suites New York City Central Park
+room,1165,Millennium Hilton New York One UN Plaza
+view,664,Millennium Hilton New York One UN Plaza
+hotel,520,Millennium Hilton New York One UN Plaza
+staff,488,Millennium Hilton New York One UN Plaza
+location,375,Millennium Hilton New York One UN Plaza
+room,728,Hilton Garden Inn Central Park South
+location,549,Hilton Garden Inn Central Park South
+staff,414,Hilton Garden Inn Central Park South
+hotel,323,Hilton Garden Inn Central Park South
+great,280,Hilton Garden Inn Central Park South
+room,338,Chambers Hotel
+staff,288,Chambers Hotel
+location,250,Chambers Hotel
+hotel,213,Chambers Hotel
+great,157,Chambers Hotel
+room,1466,RIU Plaza New York Times Square
+location,877,RIU Plaza New York Times Square
+hotel,741,RIU Plaza New York Times Square
+staff,721,RIU Plaza New York Times Square
+breakfast,654,RIU Plaza New York Times Square
+room,694,NoMo SoHo
+hotel,333,NoMo SoHo
+location,298,NoMo SoHo
+staff,278,NoMo SoHo
+great,238,NoMo SoHo
+room,582,Sheraton New York Times Square Hotel
+location,433,Sheraton New York Times Square Hotel
+staff,280,Sheraton New York Times Square Hotel
+hotel,277,Sheraton New York Times Square Hotel
+time,174,Sheraton New York Times Square Hotel
+room,460,1 Hotel Central Park
+hotel,335,1 Hotel Central Park
+staff,289,1 Hotel Central Park
+location,229,1 Hotel Central Park
+great,210,1 Hotel Central Park
+room,480,Hotel Central Fifth Avenue
+breakfast,453,Hotel Central Fifth Avenue
+location,397,Hotel Central Fifth Avenue
+hotel,237,Hotel Central Fifth Avenue
+staff,200,Hotel Central Fifth Avenue
+room,521,Shoreham Hotel
+location,355,Shoreham Hotel
+staff,223,Shoreham Hotel
+hotel,172,Shoreham Hotel
+great,141,Shoreham Hotel
+room,1513,Empire Hotel
+location,860,Empire Hotel
+hotel,552,Empire Hotel
+staff,545,Empire Hotel
+great,426,Empire Hotel
+room,720,Hotel Boutique at Grand Central
+location,473,Hotel Boutique at Grand Central
+hotel,339,Hotel Boutique at Grand Central
+great,290,Hotel Boutique at Grand Central
+staff,280,Hotel Boutique at Grand Central
+room,477,The New York EDITION
+staff,253,The New York EDITION
+hotel,238,The New York EDITION
+great,215,The New York EDITION
+location,175,The New York EDITION
+room,536,Staybridge Suites - Times Square - New York City
+breakfast,479,Staybridge Suites - Times Square - New York City
+staff,376,Staybridge Suites - Times Square - New York City
+location,308,Staybridge Suites - Times Square - New York City
+elevator,267,Staybridge Suites - Times Square - New York City
+room,577,Courtyard by Marriott Times Square West
+location,414,Courtyard by Marriott Times Square West
+staff,398,Courtyard by Marriott Times Square West
+hotel,288,Courtyard by Marriott Times Square West
+great,252,Courtyard by Marriott Times Square West
+room,1033,The Hotel @ New York City
+breakfast,672,The Hotel @ New York City
+location,606,The Hotel @ New York City
+bed,456,The Hotel @ New York City
+good,429,The Hotel @ New York City
+room,473,Hotel 50 Bowery
+staff,318,Hotel 50 Bowery
+hotel,309,Hotel 50 Bowery
+view,256,Hotel 50 Bowery
+great,230,Hotel 50 Bowery
+room,510,EVEN Hotel New York - Midtown East 44th
+hotel,256,EVEN Hotel New York - Midtown East 44th
+staff,239,EVEN Hotel New York - Midtown East 44th
+location,186,EVEN Hotel New York - Midtown East 44th
+bed,178,EVEN Hotel New York - Midtown East 44th
+room,1193,Arlo NoMad
+staff,487,Arlo NoMad
+hotel,468,Arlo NoMad
+view,446,Arlo NoMad
+great,429,Arlo NoMad
+room,704,HGU New York
+staff,313,HGU New York
+hotel,303,HGU New York
+location,275,HGU New York
+bed,217,HGU New York
+would,3,"Upper East Side, 2 Bedroom, Close to Everything, Central Park, Metro, 5th ave, Museums"
+u,3,"Upper East Side, 2 Bedroom, Close to Everything, Central Park, Metro, 5th ave, Museums"
+clean,2,"Upper East Side, 2 Bedroom, Close to Everything, Central Park, Metro, 5th ave, Museums"
+definitely,2,"Upper East Side, 2 Bedroom, Close to Everything, Central Park, Metro, 5th ave, Museums"
+needed,2,"Upper East Side, 2 Bedroom, Close to Everything, Central Park, Metro, 5th ave, Museums"
+room,447,Hotel Wolcott
+location,339,Hotel Wolcott
+hotel,301,Hotel Wolcott
+staff,233,Hotel Wolcott
+wifi,160,Hotel Wolcott
+room,446,Westin New York at Times Square
+location,320,Westin New York at Times Square
+hotel,227,Westin New York at Times Square
+staff,223,Westin New York at Times Square
+bed,169,Westin New York at Times Square
+room,917,World Center Hotel
+location,507,World Center Hotel
+view,452,World Center Hotel
+hotel,432,World Center Hotel
+great,400,World Center Hotel
+room,447,Sixty LES
+hotel,237,Sixty LES
+staff,225,Sixty LES
+great,211,Sixty LES
+location,181,Sixty LES
+room,361,The Standard - East Village
+staff,181,The Standard - East Village
+great,165,The Standard - East Village
+view,155,The Standard - East Village
+bed,138,The Standard - East Village
+room,897,Novotel New York Times Square
+location,628,Novotel New York Times Square
+staff,428,Novotel New York Times Square
+hotel,415,Novotel New York Times Square
+great,414,Novotel New York Times Square
+room,533,Candlewood Suites NYC -Times Square
+location,401,Candlewood Suites NYC -Times Square
+staff,322,Candlewood Suites NYC -Times Square
+time,225,Candlewood Suites NYC -Times Square
+great,204,Candlewood Suites NYC -Times Square
+room,417,Fairfield Inn & Suites by Marriott New York Manhattan/Fifth Avenue
+breakfast,278,Fairfield Inn & Suites by Marriott New York Manhattan/Fifth Avenue
+location,251,Fairfield Inn & Suites by Marriott New York Manhattan/Fifth Avenue
+staff,249,Fairfield Inn & Suites by Marriott New York Manhattan/Fifth Avenue
+good,160,Fairfield Inn & Suites by Marriott New York Manhattan/Fifth Avenue
+room,848,Heritage Hotel New York City
+location,490,Heritage Hotel New York City
+breakfast,487,Heritage Hotel New York City
+hotel,382,Heritage Hotel New York City
+staff,322,Heritage Hotel New York City
+room,292,SIXTY SoHo
+location,197,SIXTY SoHo
+staff,170,SIXTY SoHo
+great,148,SIXTY SoHo
+hotel,145,SIXTY SoHo
+room,218,Hotel Hayden New York
+hotel,160,Hotel Hayden New York
+staff,133,Hotel Hayden New York
+location,122,Hotel Hayden New York
+great,108,Hotel Hayden New York
+room,186,Trump International New York
+staff,139,Trump International New York
+hotel,127,Trump International New York
+location,125,Trump International New York
+great,84,Trump International New York
+room,985,Doubletree By Hilton New York Times Square West
+location,476,Doubletree By Hilton New York Times Square West
+staff,407,Doubletree By Hilton New York Times Square West
+hotel,356,Doubletree By Hilton New York Times Square West
+time,293,Doubletree By Hilton New York Times Square West
+room,349,The Dominick Hotel
+view,169,The Dominick Hotel
+staff,167,The Dominick Hotel
+hotel,165,The Dominick Hotel
+great,143,The Dominick Hotel
+room,753,Hotel Lucerne
+location,440,Hotel Lucerne
+staff,403,Hotel Lucerne
+hotel,380,Hotel Lucerne
+great,289,Hotel Lucerne
+room,572,Dream Downtown
+hotel,450,Dream Downtown
+location,311,Dream Downtown
+staff,293,Dream Downtown
+great,286,Dream Downtown
+room,244,Andaz 5th Avenue-a concept by Hyatt
+staff,127,Andaz 5th Avenue-a concept by Hyatt
+location,122,Andaz 5th Avenue-a concept by Hyatt
+hotel,106,Andaz 5th Avenue-a concept by Hyatt
+great,83,Andaz 5th Avenue-a concept by Hyatt
+room,693,The Time New York
+location,393,The Time New York
+staff,384,The Time New York
+hotel,341,The Time New York
+time,264,The Time New York
+room,436,Best Western Premier Herald Square
+breakfast,283,Best Western Premier Herald Square
+location,253,Best Western Premier Herald Square
+staff,239,Best Western Premier Herald Square
+small,176,Best Western Premier Herald Square
+room,1231,Hotel Belleclaire
+location,596,Hotel Belleclaire
+staff,527,Hotel Belleclaire
+hotel,432,Hotel Belleclaire
+great,337,Hotel Belleclaire
+room,934,Fairfield Inn by Marriott New York Manhattan/Financial District
+breakfast,580,Fairfield Inn by Marriott New York Manhattan/Financial District
+staff,549,Fairfield Inn by Marriott New York Manhattan/Financial District
+small,360,Fairfield Inn by Marriott New York Manhattan/Financial District
+hotel,352,Fairfield Inn by Marriott New York Manhattan/Financial District
+room,529,Hyatt Herald Square New York / 5th Avenue
+staff,332,Hyatt Herald Square New York / 5th Avenue
+location,287,Hyatt Herald Square New York / 5th Avenue
+hotel,249,Hyatt Herald Square New York / 5th Avenue
+great,204,Hyatt Herald Square New York / 5th Avenue
+location,11,Great Renovated Apartments Best Location Manhattan
+would,7,Great Renovated Apartments Best Location Manhattan
+towel,6,Great Renovated Apartments Best Location Manhattan
+2,5,Great Renovated Apartments Best Location Manhattan
+great,5,Great Renovated Apartments Best Location Manhattan
+room,162,AKA Wall Street
+staff,127,AKA Wall Street
+great,84,AKA Wall Street
+hotel,70,AKA Wall Street
+location,69,AKA Wall Street
+room,428,Hotel Indigo Lower East Side
+hotel,283,Hotel Indigo Lower East Side
+great,245,Hotel Indigo Lower East Side
+view,207,Hotel Indigo Lower East Side
+bar,207,Hotel Indigo Lower East Side
+room,602,U Hotel Fifth Avenue
+location,423,U Hotel Fifth Avenue
+staff,294,U Hotel Fifth Avenue
+small,263,U Hotel Fifth Avenue
+hotel,221,U Hotel Fifth Avenue
+room,704,Club Quarters Hotel Wall Street
+location,438,Club Quarters Hotel Wall Street
+staff,345,Club Quarters Hotel Wall Street
+hotel,301,Club Quarters Hotel Wall Street
+great,258,Club Quarters Hotel Wall Street
+room,933,Sohotel
+staff,494,Sohotel
+hotel,433,Sohotel
+location,424,Sohotel
+great,342,Sohotel
+room,428,Club Quarters Hotel Midtown - Times Square
+location,262,Club Quarters Hotel Midtown - Times Square
+staff,205,Club Quarters Hotel Midtown - Times Square
+hotel,159,Club Quarters Hotel Midtown - Times Square
+small,128,Club Quarters Hotel Midtown - Times Square
+room,370,Courtyard New York Manhattan/Times Square
+location,346,Courtyard New York Manhattan/Times Square
+staff,234,Courtyard New York Manhattan/Times Square
+great,157,Courtyard New York Manhattan/Times Square
+hotel,154,Courtyard New York Manhattan/Times Square
+room,310,Carvi Hotel New York
+staff,169,Carvi Hotel New York
+location,164,Carvi Hotel New York
+hotel,138,Carvi Hotel New York
+bed,108,Carvi Hotel New York
+room,248,The Allen Hotel
+hotel,116,The Allen Hotel
+staff,99,The Allen Hotel
+bed,81,The Allen Hotel
+great,81,The Allen Hotel
+room,386,"Club Quarters Hotel, Grand Central"
+location,247,"Club Quarters Hotel, Grand Central"
+great,173,"Club Quarters Hotel, Grand Central"
+staff,166,"Club Quarters Hotel, Grand Central"
+floor,143,"Club Quarters Hotel, Grand Central"
+room,435,The Jewel Facing Rockefeller Center
+location,393,The Jewel Facing Rockefeller Center
+staff,248,The Jewel Facing Rockefeller Center
+hotel,193,The Jewel Facing Rockefeller Center
+great,146,The Jewel Facing Rockefeller Center
+location,16,Modern Apartments next to Times Square
+small,13,Modern Apartments next to Times Square
+apartment,11,Modern Apartments next to Times Square
+clean,10,Modern Apartments next to Times Square
+room,8,Modern Apartments next to Times Square
+room,46,The Peninsula New York
+staff,26,The Peninsula New York
+hotel,25,The Peninsula New York
+location,22,The Peninsula New York
+great,18,The Peninsula New York
+room,338,The NoMad Hotel
+hotel,217,The NoMad Hotel
+staff,171,The NoMad Hotel
+great,135,The NoMad Hotel
+bar,119,The NoMad Hotel
+room,498,City Club Hotel
+location,272,City Club Hotel
+staff,259,City Club Hotel
+hotel,192,City Club Hotel
+great,151,City Club Hotel
+room,2388,The Gallivant Times Square
+location,1437,The Gallivant Times Square
+hotel,812,The Gallivant Times Square
+staff,733,The Gallivant Times Square
+time,729,The Gallivant Times Square
+room,782,Four Points by Sheraton Midtown - Times Square
+staff,527,Four Points by Sheraton Midtown - Times Square
+location,519,Four Points by Sheraton Midtown - Times Square
+hotel,391,Four Points by Sheraton Midtown - Times Square
+great,271,Four Points by Sheraton Midtown - Times Square
+location,11,Heart of Midtown
+owner,5,Heart of Midtown
+great,4,Heart of Midtown
+simon,4,Heart of Midtown
+excellent,4,Heart of Midtown
+location,79,Midtown Lodging
+apartment,75,Midtown Lodging
+great,52,Midtown Lodging
+good,47,Midtown Lodging
+room,32,Midtown Lodging
+room,164,Freehand New York
+hotel,77,Freehand New York
+staff,70,Freehand New York
+great,70,Freehand New York
+location,59,Freehand New York
+room,638,"The Bernic Hotel New York City,Tapestry Collection by Hilton"
+staff,320,"The Bernic Hotel New York City,Tapestry Collection by Hilton"
+hotel,286,"The Bernic Hotel New York City,Tapestry Collection by Hilton"
+location,237,"The Bernic Hotel New York City,Tapestry Collection by Hilton"
+great,234,"The Bernic Hotel New York City,Tapestry Collection by Hilton"
+room,506,Hotel 32 32
+hotel,255,Hotel 32 32
+location,238,Hotel 32 32
+breakfast,230,Hotel 32 32
+staff,196,Hotel 32 32
+room,102,Sanctuary NYC Retreats
+staff,88,Sanctuary NYC Retreats
+location,85,Sanctuary NYC Retreats
+great,74,Sanctuary NYC Retreats
+breakfast,74,Sanctuary NYC Retreats
+room,674,"Hotel Shocard, New York"
+location,405,"Hotel Shocard, New York"
+staff,345,"Hotel Shocard, New York"
+small,266,"Hotel Shocard, New York"
+hotel,238,"Hotel Shocard, New York"
+room,343,"Park South, a Joie de Vivre Hotel"
+staff,226,"Park South, a Joie de Vivre Hotel"
+hotel,167,"Park South, a Joie de Vivre Hotel"
+location,151,"Park South, a Joie de Vivre Hotel"
+great,144,"Park South, a Joie de Vivre Hotel"
+room,263,Four Points by Sheraton Manhattan Midtown West
+staff,171,Four Points by Sheraton Manhattan Midtown West
+hotel,141,Four Points by Sheraton Manhattan Midtown West
+bed,117,Four Points by Sheraton Manhattan Midtown West
+clean,99,Four Points by Sheraton Manhattan Midtown West
+room,798,Dream Midtown
+location,480,Dream Midtown
+hotel,359,Dream Midtown
+staff,337,Dream Midtown
+great,258,Dream Midtown
+room,393,East Village Hotel
+location,332,East Village Hotel
+great,215,East Village Hotel
+hotel,158,East Village Hotel
+staff,147,East Village Hotel
+room,544,Holiday Inn Express - Times Square
+breakfast,539,Holiday Inn Express - Times Square
+staff,365,Holiday Inn Express - Times Square
+location,356,Holiday Inn Express - Times Square
+hotel,243,Holiday Inn Express - Times Square
+room,232,Distrikt Hotel New York City
+staff,155,Distrikt Hotel New York City
+hotel,124,Distrikt Hotel New York City
+location,115,Distrikt Hotel New York City
+great,91,Distrikt Hotel New York City
+room,300,Hotel Wales
+location,156,Hotel Wales
+staff,149,Hotel Wales
+hotel,118,Hotel Wales
+great,85,Hotel Wales
+room,606,Hampton Inn Manhattan Grand Central
+staff,589,Hampton Inn Manhattan Grand Central
+breakfast,550,Hampton Inn Manhattan Grand Central
+location,348,Hampton Inn Manhattan Grand Central
+good,306,Hampton Inn Manhattan Grand Central
+room,625,Washington Jefferson at Times Square
+location,314,Washington Jefferson at Times Square
+staff,271,Washington Jefferson at Times Square
+small,209,Washington Jefferson at Times Square
+hotel,184,Washington Jefferson at Times Square
+room,489,Four Points by Sheraton Manhattan Chelsea
+location,297,Four Points by Sheraton Manhattan Chelsea
+staff,293,Four Points by Sheraton Manhattan Chelsea
+great,182,Four Points by Sheraton Manhattan Chelsea
+hotel,180,Four Points by Sheraton Manhattan Chelsea
+room,113,Fairfield Inn & Suites by Marriott New York Downtown Manhattan/World Trade Center Area
+breakfast,105,Fairfield Inn & Suites by Marriott New York Downtown Manhattan/World Trade Center Area
+staff,89,Fairfield Inn & Suites by Marriott New York Downtown Manhattan/World Trade Center Area
+hotel,61,Fairfield Inn & Suites by Marriott New York Downtown Manhattan/World Trade Center Area
+location,55,Fairfield Inn & Suites by Marriott New York Downtown Manhattan/World Trade Center Area
+room,48,Four Seasons Hotel New York Downtown
+hotel,38,Four Seasons Hotel New York Downtown
+staff,32,Four Seasons Hotel New York Downtown
+service,26,Four Seasons Hotel New York Downtown
+great,17,Four Seasons Hotel New York Downtown
+room,468,Cassa Hotel 45th Street New York
+location,316,Cassa Hotel 45th Street New York
+staff,291,Cassa Hotel 45th Street New York
+hotel,206,Cassa Hotel 45th Street New York
+great,199,Cassa Hotel 45th Street New York
+apartment,27,Times Square Lux Highrise
+location,18,Times Square Lux Highrise
+bedroom,17,Times Square Lux Highrise
+room,17,Times Square Lux Highrise
+u,15,Times Square Lux Highrise
+room,562,Viceroy Central Park New York
+location,316,Viceroy Central Park New York
+staff,292,Viceroy Central Park New York
+hotel,228,Viceroy Central Park New York
+great,214,Viceroy Central Park New York
+room,1108,DoubleTree by Hilton NYC - Financial District
+location,634,DoubleTree by Hilton NYC - Financial District
+staff,599,DoubleTree by Hilton NYC - Financial District
+hotel,519,DoubleTree by Hilton NYC - Financial District
+elevator,509,DoubleTree by Hilton NYC - Financial District
+room,2102,Days Inn by Wyndham Hotel New York City-Broadway
+location,811,Days Inn by Wyndham Hotel New York City-Broadway
+hotel,746,Days Inn by Wyndham Hotel New York City-Broadway
+staff,637,Days Inn by Wyndham Hotel New York City-Broadway
+bed,528,Days Inn by Wyndham Hotel New York City-Broadway
+room,323,Sofitel New York
+staff,223,Sofitel New York
+location,200,Sofitel New York
+hotel,173,Sofitel New York
+bed,129,Sofitel New York
+room,591,Westgate New York City
+location,298,Westgate New York City
+staff,245,Westgate New York City
+hotel,202,Westgate New York City
+bed,164,Westgate New York City
+room,79,The Mercer
+staff,66,The Mercer
+hotel,41,The Mercer
+location,38,The Mercer
+great,30,The Mercer
+room,507,Homewood Suites Midtown Manhattan Times Square South
+breakfast,399,Homewood Suites Midtown Manhattan Times Square South
+staff,326,Homewood Suites Midtown Manhattan Times Square South
+location,281,Homewood Suites Midtown Manhattan Times Square South
+great,273,Homewood Suites Midtown Manhattan Times Square South
+room,408,Fairfield Inn & Suites by Marriott New York Manhattan/Chelsea
+breakfast,269,Fairfield Inn & Suites by Marriott New York Manhattan/Chelsea
+staff,252,Fairfield Inn & Suites by Marriott New York Manhattan/Chelsea
+location,208,Fairfield Inn & Suites by Marriott New York Manhattan/Chelsea
+hotel,161,Fairfield Inn & Suites by Marriott New York Manhattan/Chelsea
+room,956,Ameritania at Times Square
+location,574,Ameritania at Times Square
+staff,389,Ameritania at Times Square
+hotel,332,Ameritania at Times Square
+great,282,Ameritania at Times Square
+room,598,Lotte New York Palace
+location,376,Lotte New York Palace
+hotel,354,Lotte New York Palace
+staff,294,Lotte New York Palace
+view,205,Lotte New York Palace
+room,213,11 Howard
+staff,110,11 Howard
+hotel,95,11 Howard
+great,72,11 Howard
+bed,69,11 Howard
+location,3,Times Square HighLine Two Bedroom
+appartment,2,Times Square HighLine Two Bedroom
+area,2,Times Square HighLine Two Bedroom
+big,2,Times Square HighLine Two Bedroom
+attraction,2,Times Square HighLine Two Bedroom
+apartment,19,Midtown East Spacious Apartment
+location,14,Midtown East Spacious Apartment
+great,9,Midtown East Spacious Apartment
+good,7,Midtown East Spacious Apartment
+night,7,Midtown East Spacious Apartment
+room,1290,Four Points by Sheraton New York Downtown
+staff,547,Four Points by Sheraton New York Downtown
+location,537,Four Points by Sheraton New York Downtown
+bed,495,Four Points by Sheraton New York Downtown
+hotel,473,Four Points by Sheraton New York Downtown
+room,570,Walker Hotel Greenwich Village
+staff,320,Walker Hotel Greenwich Village
+location,268,Walker Hotel Greenwich Village
+small,225,Walker Hotel Greenwich Village
+hotel,223,Walker Hotel Greenwich Village
+room,232,The Kitano Hotel New York
+staff,125,The Kitano Hotel New York
+hotel,123,The Kitano Hotel New York
+location,115,The Kitano Hotel New York
+clean,74,The Kitano Hotel New York
+room,564,The Roger
+staff,365,The Roger
+location,297,The Roger
+hotel,284,The Roger
+great,205,The Roger
+room,536,Holiday Inn Manhattan Financial District
+location,292,Holiday Inn Manhattan Financial District
+hotel,235,Holiday Inn Manhattan Financial District
+staff,218,Holiday Inn Manhattan Financial District
+elevator,192,Holiday Inn Manhattan Financial District
+room,747,The Frederick Hotel
+location,350,The Frederick Hotel
+hotel,316,The Frederick Hotel
+staff,294,The Frederick Hotel
+small,222,The Frederick Hotel
+bed,2,John Street Apartment
+clean,2,John Street Apartment
+location,2,John Street Apartment
+comfortable,1,John Street Apartment
+apartment,1,John Street Apartment
+room,337,Best Western Bowery Hanbee Hotel
+breakfast,261,Best Western Bowery Hanbee Hotel
+staff,213,Best Western Bowery Hanbee Hotel
+location,204,Best Western Bowery Hanbee Hotel
+good,156,Best Western Bowery Hanbee Hotel
+great,12,AKA Sutton Place
+staff,10,AKA Sutton Place
+room,8,AKA Sutton Place
+day,8,AKA Sutton Place
+pool,8,AKA Sutton Place
+room,135,Loews Regency New York Hotel
+staff,74,Loews Regency New York Hotel
+location,66,Loews Regency New York Hotel
+hotel,55,Loews Regency New York Hotel
+bed,46,Loews Regency New York Hotel
+room,462,Courtyard by Marriott New York Downtown Manhattan/World Trade Center Area
+location,243,Courtyard by Marriott New York Downtown Manhattan/World Trade Center Area
+hotel,219,Courtyard by Marriott New York Downtown Manhattan/World Trade Center Area
+staff,205,Courtyard by Marriott New York Downtown Manhattan/World Trade Center Area
+great,186,Courtyard by Marriott New York Downtown Manhattan/World Trade Center Area
+room,386,The Roxy Hotel Tribeca
+hotel,326,The Roxy Hotel Tribeca
+staff,316,The Roxy Hotel Tribeca
+great,293,The Roxy Hotel Tribeca
+location,214,The Roxy Hotel Tribeca
+room,242,Hyatt Union Square New York
+location,140,Hyatt Union Square New York
+staff,130,Hyatt Union Square New York
+great,97,Hyatt Union Square New York
+hotel,72,Hyatt Union Square New York
+room,702,Orchard Street Hotel
+staff,319,Orchard Street Hotel
+location,313,Orchard Street Hotel
+great,267,Orchard Street Hotel
+small,263,Orchard Street Hotel
+room,545,Club Quarters Hotel World Trade Center
+location,293,Club Quarters Hotel World Trade Center
+hotel,210,Club Quarters Hotel World Trade Center
+view,206,Club Quarters Hotel World Trade Center
+great,201,Club Quarters Hotel World Trade Center
+room,1324,DoubleTree by Hilton Metropolitan New York City
+location,776,DoubleTree by Hilton Metropolitan New York City
+staff,597,DoubleTree by Hilton Metropolitan New York City
+hotel,555,DoubleTree by Hilton Metropolitan New York City
+bed,369,DoubleTree by Hilton Metropolitan New York City
+location,559,DoubleTree Suites by Hilton NYC - Times Square
+room,554,DoubleTree Suites by Hilton NYC - Times Square
+staff,307,DoubleTree Suites by Hilton NYC - Times Square
+time,251,DoubleTree Suites by Hilton NYC - Times Square
+hotel,240,DoubleTree Suites by Hilton NYC - Times Square
+room,459,Seton Hotel
+location,255,Seton Hotel
+staff,239,Seton Hotel
+hotel,175,Seton Hotel
+clean,167,Seton Hotel
+room,713,IBEROSTAR 70 Park Avenue Hotel
+location,408,IBEROSTAR 70 Park Avenue Hotel
+staff,357,IBEROSTAR 70 Park Avenue Hotel
+hotel,270,IBEROSTAR 70 Park Avenue Hotel
+great,234,IBEROSTAR 70 Park Avenue Hotel
+room,438,Hotel Hugo
+hotel,260,Hotel Hugo
+bar,220,Hotel Hugo
+staff,218,Hotel Hugo
+location,188,Hotel Hugo
+room,1026,Cassa Hotel Times Square
+staff,804,Cassa Hotel Times Square
+breakfast,727,Cassa Hotel Times Square
+hotel,668,Cassa Hotel Times Square
+location,519,Cassa Hotel Times Square
+hotel,47,The Whitby Hotel
+room,40,The Whitby Hotel
+staff,31,The Whitby Hotel
+great,24,The Whitby Hotel
+bed,18,The Whitby Hotel
+room,272,Courtyard New York Manhattan/Midtown East
+location,157,Courtyard New York Manhattan/Midtown East
+staff,125,Courtyard New York Manhattan/Midtown East
+hotel,101,Courtyard New York Manhattan/Midtown East
+great,100,Courtyard New York Manhattan/Midtown East
+room,115,"The Pierre, A Taj Hotel, New York"
+staff,112,"The Pierre, A Taj Hotel, New York"
+location,73,"The Pierre, A Taj Hotel, New York"
+hotel,68,"The Pierre, A Taj Hotel, New York"
+service,58,"The Pierre, A Taj Hotel, New York"
+room,488,Fifty Hotel & Suites by Affinia
+location,263,Fifty Hotel & Suites by Affinia
+staff,231,Fifty Hotel & Suites by Affinia
+hotel,215,Fifty Hotel & Suites by Affinia
+great,164,Fifty Hotel & Suites by Affinia
+room,279,Hotel on Rivington
+hotel,150,Hotel on Rivington
+great,136,Hotel on Rivington
+staff,122,Hotel on Rivington
+view,109,Hotel on Rivington
+room,202,Hilton Garden Inn NYC Financial Center/Manhattan Downtown
+location,105,Hilton Garden Inn NYC Financial Center/Manhattan Downtown
+hotel,93,Hilton Garden Inn NYC Financial Center/Manhattan Downtown
+staff,92,Hilton Garden Inn NYC Financial Center/Manhattan Downtown
+great,86,Hilton Garden Inn NYC Financial Center/Manhattan Downtown
+room,623,Holiday Inn Manhattan 6th Ave - Chelsea
+location,378,Holiday Inn Manhattan 6th Ave - Chelsea
+staff,360,Holiday Inn Manhattan 6th Ave - Chelsea
+small,249,Holiday Inn Manhattan 6th Ave - Chelsea
+hotel,234,Holiday Inn Manhattan 6th Ave - Chelsea
+room,296,Courtyard by Marriott New York Manhattan/Chelsea
+location,234,Courtyard by Marriott New York Manhattan/Chelsea
+staff,227,Courtyard by Marriott New York Manhattan/Chelsea
+hotel,171,Courtyard by Marriott New York Manhattan/Chelsea
+great,138,Courtyard by Marriott New York Manhattan/Chelsea
+room,876,The Marcel at Gramercy
+staff,404,The Marcel at Gramercy
+location,335,The Marcel at Gramercy
+great,263,The Marcel at Gramercy
+hotel,251,The Marcel at Gramercy
+room,917,Amsterdam Court Hotel
+location,503,Amsterdam Court Hotel
+hotel,327,Amsterdam Court Hotel
+staff,326,Amsterdam Court Hotel
+bed,251,Amsterdam Court Hotel
+room,1105,Night Hotel Times Square
+location,650,Night Hotel Times Square
+small,452,Night Hotel Times Square
+hotel,431,Night Hotel Times Square
+time,372,Night Hotel Times Square
+apartment,4,Athenas Domus CS 6E
+clean,3,Athenas Domus CS 6E
+perfect,3,Athenas Domus CS 6E
+comfortable,3,Athenas Domus CS 6E
+host,3,Athenas Domus CS 6E
+location,47,Studios Midtown Manhattan
+room,31,Studios Midtown Manhattan
+great,28,Studios Midtown Manhattan
+clean,26,Studios Midtown Manhattan
+building,24,Studios Midtown Manhattan
+room,321,Hampton Inn Manhattan - Times Square South
+breakfast,279,Hampton Inn Manhattan - Times Square South
+staff,211,Hampton Inn Manhattan - Times Square South
+location,184,Hampton Inn Manhattan - Times Square South
+good,149,Hampton Inn Manhattan - Times Square South
+room,411,Hampton Inn Manhattan-35th Street/Empire State Building
+breakfast,385,Hampton Inn Manhattan-35th Street/Empire State Building
+location,367,Hampton Inn Manhattan-35th Street/Empire State Building
+staff,294,Hampton Inn Manhattan-35th Street/Empire State Building
+great,217,Hampton Inn Manhattan-35th Street/Empire State Building
+room,573,Cachet Boutique Hotel NYC
+hotel,304,Cachet Boutique Hotel NYC
+location,220,Cachet Boutique Hotel NYC
+staff,216,Cachet Boutique Hotel NYC
+bed,144,Cachet Boutique Hotel NYC
+room,590,Cambria Hotel New York - Chelsea
+staff,398,Cambria Hotel New York - Chelsea
+location,331,Cambria Hotel New York - Chelsea
+hotel,288,Cambria Hotel New York - Chelsea
+great,273,Cambria Hotel New York - Chelsea
+room,276,Solita Soho Hotel
+location,195,Solita Soho Hotel
+staff,158,Solita Soho Hotel
+great,128,Solita Soho Hotel
+bed,116,Solita Soho Hotel
+room,205,Hilton Garden Inn New York Times Square South
+staff,117,Hilton Garden Inn New York Times Square South
+location,114,Hilton Garden Inn New York Times Square South
+hotel,111,Hilton Garden Inn New York Times Square South
+clean,95,Hilton Garden Inn New York Times Square South
+staff,14,AKA United Nations
+в,13,AKA United Nations
+great,12,AKA United Nations
+location,12,AKA United Nations
+room,10,AKA United Nations
+room,930,The Gregory
+location,539,The Gregory
+hotel,460,The Gregory
+staff,458,The Gregory
+great,302,The Gregory
+room,404,Broadway Plaza Hotel
+breakfast,245,Broadway Plaza Hotel
+location,200,Broadway Plaza Hotel
+staff,178,Broadway Plaza Hotel
+great,130,Broadway Plaza Hotel
+room,268,JW Marriott Essex House New York
+location,164,JW Marriott Essex House New York
+hotel,126,JW Marriott Essex House New York
+staff,122,JW Marriott Essex House New York
+view,71,JW Marriott Essex House New York
+room,483,EVEN Hotel New York Times Square South
+hotel,261,EVEN Hotel New York Times Square South
+staff,248,EVEN Hotel New York Times Square South
+great,222,EVEN Hotel New York Times Square South
+location,191,EVEN Hotel New York Times Square South
+room,636,The London NYC
+location,282,The London NYC
+staff,245,The London NYC
+hotel,233,The London NYC
+great,174,The London NYC
+room,1154,"The Lexington, Autograph Collection"
+location,613,"The Lexington, Autograph Collection"
+hotel,545,"The Lexington, Autograph Collection"
+staff,462,"The Lexington, Autograph Collection"
+great,376,"The Lexington, Autograph Collection"
+room,791,Sheraton Tribeca New York Hotel
+location,424,Sheraton Tribeca New York Hotel
+staff,418,Sheraton Tribeca New York Hotel
+hotel,322,Sheraton Tribeca New York Hotel
+bed,280,Sheraton Tribeca New York Hotel
+room,100,The Mark New York
+staff,79,The Mark New York
+hotel,66,The Mark New York
+location,65,The Mark New York
+great,56,The Mark New York
+location,11,Beautiful apartment next to Central Park
+u,7,Beautiful apartment next to Central Park
+subway,6,Beautiful apartment next to Central Park
+bed,6,Beautiful apartment next to Central Park
+2,6,Beautiful apartment next to Central Park
+room,1043,Hotel Marrakech
+staff,555,Hotel Marrakech
+hotel,492,Hotel Marrakech
+location,404,Hotel Marrakech
+bed,281,Hotel Marrakech
+room,567,Aloft Manhattan Downtown - Financial District
+staff,267,Aloft Manhattan Downtown - Financial District
+hotel,255,Aloft Manhattan Downtown - Financial District
+location,234,Aloft Manhattan Downtown - Financial District
+bed,178,Aloft Manhattan Downtown - Financial District
+room,531,Sanctuary Hotel New York
+staff,470,Sanctuary Hotel New York
+hotel,364,Sanctuary Hotel New York
+location,352,Sanctuary Hotel New York
+breakfast,301,Sanctuary Hotel New York
+apartment,11,Midtown East Deluxe 2 Bedroom Apartment
+u,7,Midtown East Deluxe 2 Bedroom Apartment
+location,5,Midtown East Deluxe 2 Bedroom Apartment
+one,5,Midtown East Deluxe 2 Bedroom Apartment
+would,4,Midtown East Deluxe 2 Bedroom Apartment
+room,582,InterContinental New York Barclay Hotel
+hotel,422,InterContinental New York Barclay Hotel
+staff,313,InterContinental New York Barclay Hotel
+location,305,InterContinental New York Barclay Hotel
+great,250,InterContinental New York Barclay Hotel
+door,11,Big 3 BDR Apt Times Square 9th Ave
+location,6,Big 3 BDR Apt Times Square 9th Ave
+clean,5,Big 3 BDR Apt Times Square 9th Ave
+apartment,5,Big 3 BDR Apt Times Square 9th Ave
+bedroom,5,Big 3 BDR Apt Times Square 9th Ave
+room,564,Hilton Times Square
+location,431,Hilton Times Square
+staff,281,Hilton Times Square
+hotel,248,Hilton Times Square
+great,216,Hilton Times Square
+location,90,Oakwood at the Nash
+room,76,Oakwood at the Nash
+apartment,71,Oakwood at the Nash
+good,60,Oakwood at the Nash
+great,57,Oakwood at the Nash
+room,761,Holiday Inn Express New York City Chelsea
+breakfast,668,Holiday Inn Express New York City Chelsea
+location,431,Holiday Inn Express New York City Chelsea
+staff,404,Holiday Inn Express New York City Chelsea
+good,321,Holiday Inn Express New York City Chelsea
+room,325,Hilton Garden Inn New York/Manhattan-Chelsea
+staff,212,Hilton Garden Inn New York/Manhattan-Chelsea
+location,204,Hilton Garden Inn New York/Manhattan-Chelsea
+hotel,153,Hilton Garden Inn New York/Manhattan-Chelsea
+bed,136,Hilton Garden Inn New York/Manhattan-Chelsea
+room,169,The Smyth
+staff,99,The Smyth
+hotel,85,The Smyth
+location,74,The Smyth
+great,74,The Smyth
+room,545,Room Mate Grace Boutique Hotel
+location,345,Room Mate Grace Boutique Hotel
+staff,334,Room Mate Grace Boutique Hotel
+bed,247,Room Mate Grace Boutique Hotel
+great,224,Room Mate Grace Boutique Hotel
+room,229,Andaz Wall Street-a concept by Hyatt
+staff,93,Andaz Wall Street-a concept by Hyatt
+hotel,86,Andaz Wall Street-a concept by Hyatt
+nice,66,Andaz Wall Street-a concept by Hyatt
+location,59,Andaz Wall Street-a concept by Hyatt
+room,203,The James New York - NoMad
+hotel,116,The James New York - NoMad
+location,102,The James New York - NoMad
+staff,98,The James New York - NoMad
+bed,78,The James New York - NoMad
+room,591,DoubleTree by Hilton New York Times Square South
+staff,376,DoubleTree by Hilton New York Times Square South
+location,288,DoubleTree by Hilton New York Times Square South
+hotel,274,DoubleTree by Hilton New York Times Square South
+bed,193,DoubleTree by Hilton New York Times Square South
+room,524,Hilton Garden Inn West 35th Street
+location,420,Hilton Garden Inn West 35th Street
+staff,321,Hilton Garden Inn West 35th Street
+hotel,256,Hilton Garden Inn West 35th Street
+great,226,Hilton Garden Inn West 35th Street
+room,491,Four Points by Sheraton Manhattan SoHo Village
+staff,304,Four Points by Sheraton Manhattan SoHo Village
+location,275,Four Points by Sheraton Manhattan SoHo Village
+hotel,197,Four Points by Sheraton Manhattan SoHo Village
+great,170,Four Points by Sheraton Manhattan SoHo Village
+room,381,Hilton New York Fashion District
+location,221,Hilton New York Fashion District
+staff,184,Hilton New York Fashion District
+hotel,157,Hilton New York Fashion District
+great,149,Hilton New York Fashion District
+room,346,Kimpton Ink48 Hotel
+staff,192,Kimpton Ink48 Hotel
+hotel,189,Kimpton Ink48 Hotel
+view,145,Kimpton Ink48 Hotel
+great,136,Kimpton Ink48 Hotel
+room,404,Residence Inn by Marriott New York Downtown Manhattan/World Trade Center Area
+breakfast,310,Residence Inn by Marriott New York Downtown Manhattan/World Trade Center Area
+staff,272,Residence Inn by Marriott New York Downtown Manhattan/World Trade Center Area
+location,232,Residence Inn by Marriott New York Downtown Manhattan/World Trade Center Area
+great,190,Residence Inn by Marriott New York Downtown Manhattan/World Trade Center Area
+room,412,INNSIDE by Melià New York Nomad
+hotel,195,INNSIDE by Melià New York Nomad
+staff,188,INNSIDE by Melià New York Nomad
+location,181,INNSIDE by Melià New York Nomad
+great,147,INNSIDE by Melià New York Nomad
+room,322,Conrad New York
+hotel,227,Conrad New York
+staff,179,Conrad New York
+location,149,Conrad New York
+great,143,Conrad New York
+room,327,Kimpton Hotel Eventi
+staff,227,Kimpton Hotel Eventi
+great,210,Kimpton Hotel Eventi
+hotel,203,Kimpton Hotel Eventi
+location,158,Kimpton Hotel Eventi
+room,517,Leon Hotel
+staff,257,Leon Hotel
+location,257,Leon Hotel
+hotel,256,Leon Hotel
+great,210,Leon Hotel
+room,356,The Iroquois New York
+staff,248,The Iroquois New York
+location,241,The Iroquois New York
+hotel,183,The Iroquois New York
+great,114,The Iroquois New York
+room,501,Dylan Hotel NYC
+location,259,Dylan Hotel NYC
+staff,220,Dylan Hotel NYC
+hotel,189,Dylan Hotel NYC
+great,144,Dylan Hotel NYC
+room,759,Bentley Hotel
+staff,311,Bentley Hotel
+hotel,290,Bentley Hotel
+bed,224,Bentley Hotel
+location,198,Bentley Hotel
+room,252,Hotel 48LEX New York
+staff,215,Hotel 48LEX New York
+breakfast,159,Hotel 48LEX New York
+hotel,137,Hotel 48LEX New York
+location,123,Hotel 48LEX New York
+room,521,Hilton Garden Inn Times Square
+location,487,Hilton Garden Inn Times Square
+staff,311,Hilton Garden Inn Times Square
+hotel,266,Hilton Garden Inn Times Square
+great,217,Hilton Garden Inn Times Square
+room,309,Moderne Hotel
+staff,208,Moderne Hotel
+location,201,Moderne Hotel
+hotel,155,Moderne Hotel
+great,132,Moderne Hotel
+room,141,Gramercy Park Hotel
+hotel,109,Gramercy Park Hotel
+staff,100,Gramercy Park Hotel
+location,68,Gramercy Park Hotel
+bar,60,Gramercy Park Hotel
+room,131,Crosby Street Hotel
+staff,92,Crosby Street Hotel
+hotel,80,Crosby Street Hotel
+location,63,Crosby Street Hotel
+great,63,Crosby Street Hotel
+room,506,"Hampton Inn Manhattan-SoHo, NY"
+breakfast,481,"Hampton Inn Manhattan-SoHo, NY"
+location,353,"Hampton Inn Manhattan-SoHo, NY"
+staff,333,"Hampton Inn Manhattan-SoHo, NY"
+good,282,"Hampton Inn Manhattan-SoHo, NY"
+room,373,The Kimpton Muse Hotel
+staff,252,The Kimpton Muse Hotel
+location,224,The Kimpton Muse Hotel
+hotel,178,The Kimpton Muse Hotel
+great,152,The Kimpton Muse Hotel
+room,534,Hilton Garden Inn Times Square Central
+location,360,Hilton Garden Inn Times Square Central
+time,250,Hilton Garden Inn Times Square Central
+staff,234,Hilton Garden Inn Times Square Central
+hotel,222,Hilton Garden Inn Times Square Central
+breakfast,425,Hampton Inn Manhattan-Times Square North
+room,424,Hampton Inn Manhattan-Times Square North
+location,348,Hampton Inn Manhattan-Times Square North
+staff,239,Hampton Inn Manhattan-Times Square North
+hotel,203,Hampton Inn Manhattan-Times Square North
+room,464,DoubleTree by Hilton - Chelsea
+location,320,DoubleTree by Hilton - Chelsea
+staff,306,DoubleTree by Hilton - Chelsea
+hotel,239,DoubleTree by Hilton - Chelsea
+bed,183,DoubleTree by Hilton - Chelsea
+room,83,Mondrian Park Avenue
+staff,48,Mondrian Park Avenue
+great,44,Mondrian Park Avenue
+hotel,44,Mondrian Park Avenue
+location,37,Mondrian Park Avenue
+room,302,Hilton Garden Inn New York Manhattan Midtown East
+staff,254,Hilton Garden Inn New York Manhattan Midtown East
+location,162,Hilton Garden Inn New York Manhattan Midtown East
+hotel,134,Hilton Garden Inn New York Manhattan Midtown East
+great,126,Hilton Garden Inn New York Manhattan Midtown East
+room,188,Hilton Garden Inn New York/Tribeca
+staff,139,Hilton Garden Inn New York/Tribeca
+location,139,Hilton Garden Inn New York/Tribeca
+hotel,98,Hilton Garden Inn New York/Tribeca
+bed,81,Hilton Garden Inn New York/Tribeca
+room,232,Hampton Inn Manhattan/Downtown- Financial District
+breakfast,158,Hampton Inn Manhattan/Downtown- Financial District
+staff,130,Hampton Inn Manhattan/Downtown- Financial District
+location,112,Hampton Inn Manhattan/Downtown- Financial District
+hotel,94,Hampton Inn Manhattan/Downtown- Financial District
+room,96,Crowne Plaza HY36 Midtown Manhattan
+location,62,Crowne Plaza HY36 Midtown Manhattan
+staff,60,Crowne Plaza HY36 Midtown Manhattan
+hotel,60,Crowne Plaza HY36 Midtown Manhattan
+great,44,Crowne Plaza HY36 Midtown Manhattan
+stair,4,Spacious Apartment in Prime Location
+floor,3,Spacious Apartment in Prime Location
+apartment,2,Spacious Apartment in Prime Location
+everything,2,Spacious Apartment in Prime Location
+manhattan,2,Spacious Apartment in Prime Location
+apartment,13,Studio Plus - Midtown Spacious Apartment
+room,8,Studio Plus - Midtown Spacious Apartment
+location,7,Studio Plus - Midtown Spacious Apartment
+could,6,Studio Plus - Midtown Spacious Apartment
+nice,6,Studio Plus - Midtown Spacious Apartment
+breakfast,555,Hampton Inn Times Square Central
+room,494,Hampton Inn Times Square Central
+location,465,Hampton Inn Times Square Central
+staff,454,Hampton Inn Times Square Central
+great,297,Hampton Inn Times Square Central
+room,279,Residence Inn by Marriott New York Manhattan/ Midtown Eastside
+breakfast,243,Residence Inn by Marriott New York Manhattan/ Midtown Eastside
+staff,192,Residence Inn by Marriott New York Manhattan/ Midtown Eastside
+location,167,Residence Inn by Marriott New York Manhattan/ Midtown Eastside
+great,164,Residence Inn by Marriott New York Manhattan/ Midtown Eastside
+room,248,Hampton Inn Manhattan Chelsea
+breakfast,193,Hampton Inn Manhattan Chelsea
+staff,178,Hampton Inn Manhattan Chelsea
+location,149,Hampton Inn Manhattan Chelsea
+great,119,Hampton Inn Manhattan Chelsea
+room,416,The Gotham Hotel
+staff,211,The Gotham Hotel
+location,176,The Gotham Hotel
+hotel,169,The Gotham Hotel
+great,115,The Gotham Hotel
+apartment,25,Tiffini
+subway,17,Tiffini
+great,16,Tiffini
+host,16,Tiffini
+nice,15,Tiffini
+apartment,25,East Village Apartments
+great,22,East Village Apartments
+location,21,East Village Apartments
+everything,12,East Village Apartments
+good,11,East Village Apartments
+floor,7,Hamilton Heights Lovely Apartments
+night,6,Hamilton Heights Lovely Apartments
+family,6,Hamilton Heights Lovely Apartments
+also,6,Hamilton Heights Lovely Apartments
+apartment,6,Hamilton Heights Lovely Apartments
+room,211,Q&A Residential Hotel
+staff,107,Q&A Residential Hotel
+location,106,Q&A Residential Hotel
+great,103,Q&A Residential Hotel
+hotel,99,Q&A Residential Hotel
+location,3,Home In The Heart Of East Village
+street,2,Home In The Heart Of East Village
+would,2,Home In The Heart Of East Village
+better,2,Home In The Heart Of East Village
+paper,2,Home In The Heart Of East Village
+location,9,Today House - Times Square North
+apartment,6,Today House - Times Square North
+great,5,Today House - Times Square North
+place,4,Today House - Times Square North
+large,4,Today House - Times Square North
+room,34,Your Home in Harlem
+great,23,Your Home in Harlem
+place,21,Your Home in Harlem
+subway,17,Your Home in Harlem
+host,16,Your Home in Harlem
+room,42,Home NYC
+subway,31,Home NYC
+yolanda,27,Home NYC
+location,25,Home NYC
+everything,21,Home NYC
+host,26,Private Room in Time Square
+location,23,Private Room in Time Square
+goran,16,Private Room in Time Square
+great,12,Private Room in Time Square
+stay,12,Private Room in Time Square
+room,24,Concorde Hotel New York
+staff,18,Concorde Hotel New York
+hotel,17,Concorde Hotel New York
+great,15,Concorde Hotel New York
+location,14,Concorde Hotel New York
+apartment,27,Home Away From Home
+location,19,Home Away From Home
+good,13,Home Away From Home
+great,11,Home Away From Home
+clean,9,Home Away From Home
+room,1960,Park Lane Hotel - A Central Park Hotel
+location,1275,Park Lane Hotel - A Central Park Hotel
+hotel,1010,Park Lane Hotel - A Central Park Hotel
+park,695,Park Lane Hotel - A Central Park Hotel
+staff,684,Park Lane Hotel - A Central Park Hotel
+room,684,Hotel Stanford NYC
+location,527,Hotel Stanford NYC
+breakfast,466,Hotel Stanford NYC
+staff,312,Hotel Stanford NYC
+hotel,308,Hotel Stanford NYC
+easy,3,Stylish 2BR Apartment in UWS
+location,2,Stylish 2BR Apartment in UWS
+clean,2,Stylish 2BR Apartment in UWS
+upper,1,Stylish 2BR Apartment in UWS
+west,1,Stylish 2BR Apartment in UWS
+building,7,Luxurious Two Bedroom Apartment in Doorman Building - Lincoln Center
+subway,4,Luxurious Two Bedroom Apartment in Doorman Building - Lincoln Center
+location,4,Luxurious Two Bedroom Apartment in Doorman Building - Lincoln Center
+good,4,Luxurious Two Bedroom Apartment in Doorman Building - Lincoln Center
+well,3,Luxurious Two Bedroom Apartment in Doorman Building - Lincoln Center
+room,598,The Ludlow Hotel
+great,365,The Ludlow Hotel
+staff,331,The Ludlow Hotel
+hotel,308,The Ludlow Hotel
+location,260,The Ludlow Hotel
+room,535,The Quin
+staff,332,The Quin
+location,319,The Quin
+hotel,241,The Quin
+great,233,The Quin
+room,938,Hotel Beacon
+location,660,Hotel Beacon
+great,497,Hotel Beacon
+staff,494,Hotel Beacon
+hotel,481,Hotel Beacon
+room,714,The Marlton Hotel
+staff,382,The Marlton Hotel
+small,348,The Marlton Hotel
+location,337,The Marlton Hotel
+hotel,320,The Marlton Hotel
+room,470,The Pearl Hotel
+staff,404,The Pearl Hotel
+location,395,The Pearl Hotel
+breakfast,361,The Pearl Hotel
+hotel,317,The Pearl Hotel
+great,8,Luxury Suites in Murray Hill
+apartment,5,Luxury Suites in Murray Hill
+location,4,Luxury Suites in Murray Hill
+building,4,Luxury Suites in Murray Hill
+roof,3,Luxury Suites in Murray Hill
+room,581,Soho Grand Hotel
+staff,348,Soho Grand Hotel
+location,311,Soho Grand Hotel
+hotel,298,Soho Grand Hotel
+great,268,Soho Grand Hotel
+room,4411,Row NYC at Times Square
+location,2476,Row NYC at Times Square
+hotel,1748,Row NYC at Times Square
+staff,1384,Row NYC at Times Square
+time,1067,Row NYC at Times Square
+room,18,Murray Hill East Suites
+location,15,Murray Hill East Suites
+staff,14,Murray Hill East Suites
+friendly,10,Murray Hill East Suites
+good,10,Murray Hill East Suites
+room,46,The Wagner Hotel
+hotel,21,The Wagner Hotel
+staff,20,The Wagner Hotel
+location,18,The Wagner Hotel
+great,18,The Wagner Hotel
+room,509,Washington Square Hotel
+location,396,Washington Square Hotel
+staff,331,Washington Square Hotel
+hotel,278,Washington Square Hotel
+breakfast,273,Washington Square Hotel
+room,325,Carnegie Hotel
+location,201,Carnegie Hotel
+breakfast,155,Carnegie Hotel
+staff,149,Carnegie Hotel
+great,138,Carnegie Hotel
+location,4,The Modern @ Rockefeller
+view,3,The Modern @ Rockefeller
+would,2,The Modern @ Rockefeller
+great,2,The Modern @ Rockefeller
+outstanding,1,The Modern @ Rockefeller
+room,623,W New York - Times Square
+location,361,W New York - Times Square
+hotel,334,W New York - Times Square
+staff,260,W New York - Times Square
+great,188,W New York - Times Square
+room,211,The Manhattan Club
+location,137,The Manhattan Club
+staff,83,The Manhattan Club
+bed,75,The Manhattan Club
+great,72,The Manhattan Club
+apartment,13,Three-Bedroom Apartment with Two Bathrooms - East 55th Street
+location,11,Three-Bedroom Apartment with Two Bathrooms - East 55th Street
+good,10,Three-Bedroom Apartment with Two Bathrooms - East 55th Street
+kitchen,8,Three-Bedroom Apartment with Two Bathrooms - East 55th Street
+well,7,Three-Bedroom Apartment with Two Bathrooms - East 55th Street
+apartment,8,Huge 2 Bed 2 Bath Apartment in Building with Elevator
+good,7,Huge 2 Bed 2 Bath Apartment in Building with Elevator
+walk,7,Huge 2 Bed 2 Bath Apartment in Building with Elevator
+location,5,Huge 2 Bed 2 Bath Apartment in Building with Elevator
+host,4,Huge 2 Bed 2 Bath Apartment in Building with Elevator
+room,2297,Pod 39
+location,1153,Pod 39
+small,839,Pod 39
+great,747,Pod 39
+staff,747,Pod 39
+room,716,YOTEL New York Times Square
+hotel,278,YOTEL New York Times Square
+bed,235,YOTEL New York Times Square
+staff,227,YOTEL New York Times Square
+location,213,YOTEL New York Times Square
+room,789,The Knickerbocker
+location,446,The Knickerbocker
+hotel,418,The Knickerbocker
+staff,372,The Knickerbocker
+great,299,The Knickerbocker
+room,916,Pod Times Square
+location,589,Pod Times Square
+hotel,383,Pod Times Square
+clean,358,Pod Times Square
+great,356,Pod Times Square
+room,355,Travel Inn - Midtown Manhattan
+location,286,Travel Inn - Midtown Manhattan
+hotel,194,Travel Inn - Midtown Manhattan
+staff,175,Travel Inn - Midtown Manhattan
+great,146,Travel Inn - Midtown Manhattan
+room,1679,Park Central
+location,1069,Park Central
+hotel,750,Park Central
+staff,602,Park Central
+bed,479,Park Central
+room,28,Chelsea Savoy
+breakfast,27,Chelsea Savoy
+location,20,Chelsea Savoy
+bed,19,Chelsea Savoy
+staff,14,Chelsea Savoy
+apartment,23,3 BEDROOM 1 BATHROOM TIMES SQUARE D
+location,10,3 BEDROOM 1 BATHROOM TIMES SQUARE D
+could,7,3 BEDROOM 1 BATHROOM TIMES SQUARE D
+great,6,3 BEDROOM 1 BATHROOM TIMES SQUARE D
+spacious,6,3 BEDROOM 1 BATHROOM TIMES SQUARE D
+location,10,Little Italy Grand
+bed,9,Little Italy Grand
+great,7,Little Italy Grand
+little,6,Little Italy Grand
+walk,6,Little Italy Grand
+room,1347,Vanderbilt YMCA
+location,726,Vanderbilt YMCA
+staff,472,Vanderbilt YMCA
+bathroom,426,Vanderbilt YMCA
+clean,383,Vanderbilt YMCA
+room,1383,Stewart Hotel
+location,744,Stewart Hotel
+hotel,592,Stewart Hotel
+staff,545,Stewart Hotel
+great,393,Stewart Hotel
+apartment,12,Bloc Away From Central Park Three-Bedroom Apartment with Private Balcony
+location,6,Bloc Away From Central Park Three-Bedroom Apartment with Private Balcony
+host,5,Bloc Away From Central Park Three-Bedroom Apartment with Private Balcony
+number,5,Bloc Away From Central Park Three-Bedroom Apartment with Private Balcony
+mouse,5,Bloc Away From Central Park Three-Bedroom Apartment with Private Balcony
+room,567,Excelsior Hotel
+location,317,Excelsior Hotel
+hotel,254,Excelsior Hotel
+staff,200,Excelsior Hotel
+great,168,Excelsior Hotel
+room,561,Midtown Convention Center Hotel NYC
+breakfast,425,Midtown Convention Center Hotel NYC
+hotel,337,Midtown Convention Center Hotel NYC
+good,294,Midtown Convention Center Hotel NYC
+location,272,Midtown Convention Center Hotel NYC
+apartment,36,Central Two Bedroom Apartment In Times Square
+location,23,Central Two Bedroom Apartment In Times Square
+great,17,Central Two Bedroom Apartment In Times Square
+stay,15,Central Two Bedroom Apartment In Times Square
+day,14,Central Two Bedroom Apartment In Times Square
+room,176,Best Western Plus Hospitality House Suites
+breakfast,136,Best Western Plus Hospitality House Suites
+staff,100,Best Western Plus Hospitality House Suites
+location,95,Best Western Plus Hospitality House Suites
+great,94,Best Western Plus Hospitality House Suites
+room,578,SoHo Garden Hotel
+location,310,SoHo Garden Hotel
+hotel,240,SoHo Garden Hotel
+staff,221,SoHo Garden Hotel
+subway,186,SoHo Garden Hotel
+room,46,Embassy Suites By Hilton New York Midtown Manhattan
+breakfast,33,Embassy Suites By Hilton New York Midtown Manhattan
+location,27,Embassy Suites By Hilton New York Midtown Manhattan
+great,26,Embassy Suites By Hilton New York Midtown Manhattan
+staff,26,Embassy Suites By Hilton New York Midtown Manhattan
+room,456,Royalton Park Avenue
+staff,260,Royalton Park Avenue
+hotel,258,Royalton Park Avenue
+great,197,Royalton Park Avenue
+pool,164,Royalton Park Avenue
+room,590,Hilton Garden Inn New York/Midtown Park Avenue
+location,373,Hilton Garden Inn New York/Midtown Park Avenue
+staff,369,Hilton Garden Inn New York/Midtown Park Avenue
+hotel,225,Hilton Garden Inn New York/Midtown Park Avenue
+bed,209,Hilton Garden Inn New York/Midtown Park Avenue
+room,299,The Bowery Hotel
+staff,208,The Bowery Hotel
+hotel,203,The Bowery Hotel
+great,162,The Bowery Hotel
+location,111,The Bowery Hotel
+stay,7,Harlem Grand
+location,6,Harlem Grand
+harlem,6,Harlem Grand
+u,6,Harlem Grand
+room,5,Harlem Grand
+room,1091,West Side YMCA
+location,1004,West Side YMCA
+bathroom,727,West Side YMCA
+staff,399,West Side YMCA
+good,387,West Side YMCA
+location,124,St Marks Hotel
+room,115,St Marks Hotel
+bed,54,St Marks Hotel
+good,53,St Marks Hotel
+staff,52,St Marks Hotel
+room,2126,Paramount Times Square
+location,1081,Paramount Times Square
+hotel,728,Paramount Times Square
+small,673,Paramount Times Square
+staff,571,Paramount Times Square
+room,399,Chelsea Pines Inn
+breakfast,309,Chelsea Pines Inn
+staff,297,Chelsea Pines Inn
+location,275,Chelsea Pines Inn
+great,228,Chelsea Pines Inn
+room,510,"The Renwick Hotel New York City, Curio Collection by Hilton"
+location,248,"The Renwick Hotel New York City, Curio Collection by Hilton"
+staff,238,"The Renwick Hotel New York City, Curio Collection by Hilton"
+hotel,216,"The Renwick Hotel New York City, Curio Collection by Hilton"
+great,187,"The Renwick Hotel New York City, Curio Collection by Hilton"
+location,2,Premium Apartments-Time Square
+noisy,2,Premium Apartments-Time Square
+perfect,1,Premium Apartments-Time Square
+right,1,Premium Apartments-Time Square
+near,1,Premium Apartments-Time Square
+room,678,The French Quarters
+staff,510,The French Quarters
+location,486,The French Quarters
+great,398,The French Quarters
+breakfast,346,The French Quarters
+room,370,Renaissance New York Midtown Hotel
+hotel,277,Renaissance New York Midtown Hotel
+staff,246,Renaissance New York Midtown Hotel
+location,238,Renaissance New York Midtown Hotel
+great,193,Renaissance New York Midtown Hotel
+room,465,The Skyline Hotel New York
+location,232,The Skyline Hotel New York
+hotel,205,The Skyline Hotel New York
+staff,157,The Skyline Hotel New York
+pool,151,The Skyline Hotel New York
+apartment,3,"NYC Charmer, Central Park/Lincoln Center"
+area,3,"NYC Charmer, Central Park/Lincoln Center"
+towel,3,"NYC Charmer, Central Park/Lincoln Center"
+need,2,"NYC Charmer, Central Park/Lincoln Center"
+patio,2,"NYC Charmer, Central Park/Lincoln Center"
+location,91,TEN15NYC
+apartment,59,TEN15NYC
+room,38,TEN15NYC
+great,36,TEN15NYC
+time,28,TEN15NYC
+location,4,Little Italy Penthouse
+bedroom,3,Little Italy Penthouse
+easy,3,Little Italy Penthouse
+helpful,2,Little Italy Penthouse
+summer,2,Little Italy Penthouse
+room,1251,HI NYC Hostel
+hostel,1113,HI NYC Hostel
+good,895,HI NYC Hostel
+staff,892,HI NYC Hostel
+clean,777,HI NYC Hostel
+room,44,Baccarat Hotel and Residences New York
+hotel,43,Baccarat Hotel and Residences New York
+service,28,Baccarat Hotel and Residences New York
+location,25,Baccarat Hotel and Residences New York
+staff,25,Baccarat Hotel and Residences New York
+room,2104,Pod 51
+location,1110,Pod 51
+bathroom,780,Pod 51
+clean,743,Pod 51
+great,686,Pod 51
+room,1162,Belnord Hotel
+small,546,Belnord Hotel
+location,508,Belnord Hotel
+clean,434,Belnord Hotel
+staff,344,Belnord Hotel
+room,183,CITY ROOMS NYC - Times Square
+location,118,CITY ROOMS NYC - Times Square
+staff,102,CITY ROOMS NYC - Times Square
+great,61,CITY ROOMS NYC - Times Square
+bed,58,CITY ROOMS NYC - Times Square
+room,520,Hudson River Hotel
+staff,269,Hudson River Hotel
+location,242,Hudson River Hotel
+hotel,201,Hudson River Hotel
+good,173,Hudson River Hotel
+apartment,10,Nice Apartment in the Heart of Upper East Side
+u,5,Nice Apartment in the Heart of Upper East Side
+location,4,Nice Apartment in the Heart of Upper East Side
+clean,4,Nice Apartment in the Heart of Upper East Side
+host,4,Nice Apartment in the Heart of Upper East Side
+room,1272,The Redbury New York
+hotel,554,The Redbury New York
+location,546,The Redbury New York
+staff,493,The Redbury New York
+bed,423,The Redbury New York
+room,757,Millennium Hilton New York Downtown
+view,518,Millennium Hilton New York Downtown
+location,425,Millennium Hilton New York Downtown
+hotel,377,Millennium Hilton New York Downtown
+staff,324,Millennium Hilton New York Downtown
+room,257,Courtyard by Marriott New York Manhattan/Herald Square
+location,226,Courtyard by Marriott New York Manhattan/Herald Square
+staff,166,Courtyard by Marriott New York Manhattan/Herald Square
+hotel,135,Courtyard by Marriott New York Manhattan/Herald Square
+great,99,Courtyard by Marriott New York Manhattan/Herald Square
+good,2,Sunny Three Bedroom Apartment Lower East Side
+place,2,Sunny Three Bedroom Apartment Lower East Side
+restaurant,2,Sunny Three Bedroom Apartment Lower East Side
+location,2,Sunny Three Bedroom Apartment Lower East Side
+stay,1,Sunny Three Bedroom Apartment Lower East Side
+room,472,CITY ROOMS NYC - Soho
+location,269,CITY ROOMS NYC - Soho
+staff,259,CITY ROOMS NYC - Soho
+great,161,CITY ROOMS NYC - Soho
+hotel,150,CITY ROOMS NYC - Soho
+room,373,Eurostars Wall Street
+location,150,Eurostars Wall Street
+staff,146,Eurostars Wall Street
+hotel,134,Eurostars Wall Street
+bed,97,Eurostars Wall Street
+room,402,Refinery Hotel - New York
+staff,280,Refinery Hotel - New York
+hotel,252,Refinery Hotel - New York
+bar,249,Refinery Hotel - New York
+great,230,Refinery Hotel - New York
+comfy,3,Newly Renovated Three Bedroom Lower East Side
+club,3,Newly Renovated Three Bedroom Lower East Side
+3,3,Newly Renovated Three Bedroom Lower East Side
+location,3,Newly Renovated Three Bedroom Lower East Side
+like,2,Newly Renovated Three Bedroom Lower East Side
+room,668,The Ridge Hotel
+location,365,The Ridge Hotel
+staff,354,The Ridge Hotel
+great,265,The Ridge Hotel
+hotel,238,The Ridge Hotel
+room,173,The Surrey
+hotel,103,The Surrey
+staff,88,The Surrey
+location,67,The Surrey
+service,56,The Surrey
+location,289,Hotel St. James
+room,270,Hotel St. James
+hotel,155,Hotel St. James
+staff,142,Hotel St. James
+time,118,Hotel St. James
+room,248,The Kimberly Hotel & Suites
+staff,200,The Kimberly Hotel & Suites
+hotel,148,The Kimberly Hotel & Suites
+great,115,The Kimberly Hotel & Suites
+location,111,The Kimberly Hotel & Suites
+room,444,Bryant Park Hotel
+staff,304,Bryant Park Hotel
+location,295,Bryant Park Hotel
+hotel,241,Bryant Park Hotel
+great,212,Bryant Park Hotel
+room,805,Riverside Tower Hotel
+location,436,Riverside Tower Hotel
+staff,289,Riverside Tower Hotel
+small,289,Riverside Tower Hotel
+bed,275,Riverside Tower Hotel
+room,255,SpringHill Suites by Marriott New York Midtown Manhattan/Fifth Avenue
+breakfast,236,SpringHill Suites by Marriott New York Midtown Manhattan/Fifth Avenue
+location,173,SpringHill Suites by Marriott New York Midtown Manhattan/Fifth Avenue
+staff,147,SpringHill Suites by Marriott New York Midtown Manhattan/Fifth Avenue
+great,118,SpringHill Suites by Marriott New York Midtown Manhattan/Fifth Avenue
+room,447,Royalton New York
+location,218,Royalton New York
+hotel,209,Royalton New York
+staff,164,Royalton New York
+great,125,Royalton New York
+room,35,Macy Empire Apartments
+location,30,Macy Empire Apartments
+clean,18,Macy Empire Apartments
+apartment,15,Macy Empire Apartments
+u,15,Macy Empire Apartments
+apartment,6,"Broadway, Times Square, Central Park Studio"
+nothing,5,"Broadway, Times Square, Central Park Studio"
+like,5,"Broadway, Times Square, Central Park Studio"
+key,4,"Broadway, Times Square, Central Park Studio"
+go,4,"Broadway, Times Square, Central Park Studio"
+room,348,The Westin New York Grand Central
+location,184,The Westin New York Grand Central
+staff,178,The Westin New York Grand Central
+hotel,143,The Westin New York Grand Central
+bed,120,The Westin New York Grand Central
+room,610,Leo House
+breakfast,485,Leo House
+staff,435,Leo House
+location,434,Leo House
+good,325,Leo House
+room,22,Studio-Plus Apartment
+location,16,Studio-Plus Apartment
+bed,10,Studio-Plus Apartment
+towel,9,Studio-Plus Apartment
+building,9,Studio-Plus Apartment
+room,227,Park West Hotel
+location,92,Park West Hotel
+staff,87,Park West Hotel
+hotel,67,Park West Hotel
+small,65,Park West Hotel
+room,130,Fairfield Inn & Suites by Marriott New York Manhattan/Central Park
+breakfast,113,Fairfield Inn & Suites by Marriott New York Manhattan/Central Park
+staff,105,Fairfield Inn & Suites by Marriott New York Manhattan/Central Park
+hotel,62,Fairfield Inn & Suites by Marriott New York Manhattan/Central Park
+good,58,Fairfield Inn & Suites by Marriott New York Manhattan/Central Park
+room,142,Gardens Suites Hotel by Affinia
+staff,95,Gardens Suites Hotel by Affinia
+location,92,Gardens Suites Hotel by Affinia
+hotel,55,Gardens Suites Hotel by Affinia
+great,54,Gardens Suites Hotel by Affinia
+room,397,NobleDEN Hotel
+location,234,NobleDEN Hotel
+staff,221,NobleDEN Hotel
+great,219,NobleDEN Hotel
+hotel,191,NobleDEN Hotel
+room,1248,The Jane
+staff,528,The Jane
+location,517,The Jane
+hotel,469,The Jane
+great,461,The Jane
+staff,7,AC Hotel by Marriott New York Times Square
+room,6,AC Hotel by Marriott New York Times Square
+floor,4,AC Hotel by Marriott New York Times Square
+19,3,AC Hotel by Marriott New York Times Square
+alarm,3,AC Hotel by Marriott New York Times Square
+room,77,Mandarin Oriental New York
+hotel,55,Mandarin Oriental New York
+view,46,Mandarin Oriental New York
+staff,38,Mandarin Oriental New York
+location,36,Mandarin Oriental New York
+apartment,17,2 Bedroom Apartment Hell's Kitchen
+location,8,2 Bedroom Apartment Hell's Kitchen
+toilet,7,2 Bedroom Apartment Hell's Kitchen
+owner,6,2 Bedroom Apartment Hell's Kitchen
+time,6,2 Bedroom Apartment Hell's Kitchen
+room,2942,The Manhattan at Times Square
+location,1957,The Manhattan at Times Square
+hotel,1348,The Manhattan at Times Square
+staff,1059,The Manhattan at Times Square
+bed,681,The Manhattan at Times Square
+room,232,The Maritime Hotel
+location,156,The Maritime Hotel
+great,142,The Maritime Hotel
+hotel,138,The Maritime Hotel
+staff,128,The Maritime Hotel
+room,341,Hotel Metro
+breakfast,295,Hotel Metro
+location,289,Hotel Metro
+hotel,266,Hotel Metro
+staff,219,Hotel Metro
+hotel,14,Four Seasons Hotel New York
+room,12,Four Seasons Hotel New York
+location,9,Four Seasons Hotel New York
+usd,8,Four Seasons Hotel New York
+staff,7,Four Seasons Hotel New York
+room,265,The Premier Times Square by Millennium
+location,185,The Premier Times Square by Millennium
+breakfast,169,The Premier Times Square by Millennium
+staff,137,The Premier Times Square by Millennium
+hotel,135,The Premier Times Square by Millennium
+apartment,11,NY Away - Hells Kitchen/ Times Square 2 Bedroom
+view,7,NY Away - Hells Kitchen/ Times Square 2 Bedroom
+location,6,NY Away - Hells Kitchen/ Times Square 2 Bedroom
+would,6,NY Away - Hells Kitchen/ Times Square 2 Bedroom
+amazing,5,NY Away - Hells Kitchen/ Times Square 2 Bedroom
+location,488,Jazz on Columbus Circle Hostel
+room,396,Jazz on Columbus Circle Hostel
+staff,271,Jazz on Columbus Circle Hostel
+hostel,245,Jazz on Columbus Circle Hostel
+clean,216,Jazz on Columbus Circle Hostel
+property,5,NY Away - Luxury Apartments in the Financial District
+apartment,5,NY Away - Luxury Apartments in the Financial District
+time,4,NY Away - Luxury Apartments in the Financial District
+room,4,NY Away - Luxury Apartments in the Financial District
+bedroom,3,NY Away - Luxury Apartments in the Financial District
+room,211,Hôtel Plaza Athénée
+hotel,120,Hôtel Plaza Athénée
+location,91,Hôtel Plaza Athénée
+staff,91,Hôtel Plaza Athénée
+service,70,Hôtel Plaza Athénée
+room,229,Roger Smith Hotel
+location,160,Roger Smith Hotel
+staff,132,Roger Smith Hotel
+hotel,122,Roger Smith Hotel
+great,98,Roger Smith Hotel
+room,314,Hampton Inn Madison Square Garden
+breakfast,263,Hampton Inn Madison Square Garden
+staff,235,Hampton Inn Madison Square Garden
+location,218,Hampton Inn Madison Square Garden
+good,142,Hampton Inn Madison Square Garden
+helpful,2,Charming 2 Bedroom in the heart of Midtown East
+247,1,Charming 2 Bedroom in the heart of Midtown East
+coffeetea,1,Charming 2 Bedroom in the heart of Midtown East
+wlan,1,Charming 2 Bedroom in the heart of Midtown East
+free,1,Charming 2 Bedroom in the heart of Midtown East
+room,458,Da Vinci Hotel
+location,351,Da Vinci Hotel
+hotel,187,Da Vinci Hotel
+staff,177,Da Vinci Hotel
+great,143,Da Vinci Hotel
+room,480,Manhattan Broadway Hotel
+location,311,Manhattan Broadway Hotel
+staff,230,Manhattan Broadway Hotel
+hotel,226,Manhattan Broadway Hotel
+small,158,Manhattan Broadway Hotel
+location,58,Studio Plus - Cozy Apartments
+room,52,Studio Plus - Cozy Apartments
+apartment,36,Studio Plus - Cozy Apartments
+clean,28,Studio Plus - Cozy Apartments
+good,25,Studio Plus - Cozy Apartments
+room,281,Aloft Harlem
+staff,211,Aloft Harlem
+hotel,139,Aloft Harlem
+great,131,Aloft Harlem
+location,125,Aloft Harlem
+apartment,7,Garden House with 2 Bedroom
+location,6,Garden House with 2 Bedroom
+nothing,4,Garden House with 2 Bedroom
+comfortable,3,Garden House with 2 Bedroom
+host,3,Garden House with 2 Bedroom
+location,161,Courtyard by Marriott New York Manhattan/ Fifth Avenue
+room,145,Courtyard by Marriott New York Manhattan/ Fifth Avenue
+staff,85,Courtyard by Marriott New York Manhattan/ Fifth Avenue
+hotel,75,Courtyard by Marriott New York Manhattan/ Fifth Avenue
+great,59,Courtyard by Marriott New York Manhattan/ Fifth Avenue
+location,10,Two Bedroom Apartment - Madison Avenue
+apartment,7,Two Bedroom Apartment - Madison Avenue
+room,7,Two Bedroom Apartment - Madison Avenue
+building,7,Two Bedroom Apartment - Madison Avenue
+difficult,6,Two Bedroom Apartment - Madison Avenue
+room,98,Holiday Inn Express Manhattan Midtown West
+breakfast,87,Holiday Inn Express Manhattan Midtown West
+staff,63,Holiday Inn Express Manhattan Midtown West
+location,50,Holiday Inn Express Manhattan Midtown West
+good,37,Holiday Inn Express Manhattan Midtown West
+room,410,Midtown Suite New York
+location,269,Midtown Suite New York
+bed,136,Midtown Suite New York
+one,122,Midtown Suite New York
+bathroom,112,Midtown Suite New York
+room,165,The Townhouse Inn of Chelsea
+breakfast,126,The Townhouse Inn of Chelsea
+location,95,The Townhouse Inn of Chelsea
+staff,71,The Townhouse Inn of Chelsea
+great,66,The Townhouse Inn of Chelsea
+room,644,Seafarers International House
+location,476,Seafarers International House
+staff,272,Seafarers International House
+clean,228,Seafarers International House
+good,207,Seafarers International House
+apartment,5,Harlem Lofts
+great,4,Harlem Lofts
+code,4,Harlem Lofts
+harlem,3,Harlem Lofts
+get,3,Harlem Lofts
+location,37,Broadway Suite New York
+room,25,Broadway Suite New York
+clean,23,Broadway Suite New York
+bed,14,Broadway Suite New York
+apartment,13,Broadway Suite New York
+apartment,5,Greenwich Village 2 bed 1 bath
+area,3,Greenwich Village 2 bed 1 bath
+location,2,Greenwich Village 2 bed 1 bath
+sorry,2,Greenwich Village 2 bed 1 bath
+book,2,Greenwich Village 2 bed 1 bath
+location,136,3 West Club
+room,134,3 West Club
+staff,78,3 West Club
+great,62,3 West Club
+hotel,57,3 West Club
+room,624,NYLO New York City
+location,303,NYLO New York City
+staff,288,NYLO New York City
+bed,281,NYLO New York City
+hotel,242,NYLO New York City
+room,57,The Sherry Netherland
+staff,55,The Sherry Netherland
+location,33,The Sherry Netherland
+hotel,32,The Sherry Netherland
+service,21,The Sherry Netherland
+bed,2,Serviced Concierge Elevator 1 BDR
+location,2,Serviced Concierge Elevator 1 BDR
+amazing,2,Serviced Concierge Elevator 1 BDR
+extremely,1,Serviced Concierge Elevator 1 BDR
+comfortable,1,Serviced Concierge Elevator 1 BDR
+room,971,"Nyma, The New York Manhattan Hotel"
+location,669,"Nyma, The New York Manhattan Hotel"
+breakfast,594,"Nyma, The New York Manhattan Hotel"
+hotel,433,"Nyma, The New York Manhattan Hotel"
+staff,411,"Nyma, The New York Manhattan Hotel"
+room,316,Americana Inn
+location,280,Americana Inn
+bathroom,150,Americana Inn
+staff,147,Americana Inn
+clean,141,Americana Inn
+anything,2,Broome Street Apartment - Lower East Side #19
+fraud,2,Broome Street Apartment - Lower East Side #19
+un,2,Broome Street Apartment - Lower East Side #19
+rat,2,Broome Street Apartment - Lower East Side #19
+city,2,Broome Street Apartment - Lower East Side #19
+good,3,PermaGO Seaport
+working,2,PermaGO Seaport
+neighborhood,2,PermaGO Seaport
+room,2,PermaGO Seaport
+location,1,PermaGO Seaport
+room,589,Chelsea Inn
+location,271,Chelsea Inn
+staff,221,Chelsea Inn
+bed,150,Chelsea Inn
+clean,141,Chelsea Inn
+room,184,The Plaza
+hotel,113,The Plaza
+staff,99,The Plaza
+location,93,The Plaza
+service,70,The Plaza
+room,381,Shelburne Hotel & Suites by Affinia
+location,217,Shelburne Hotel & Suites by Affinia
+staff,197,Shelburne Hotel & Suites by Affinia
+hotel,195,Shelburne Hotel & Suites by Affinia
+good,144,Shelburne Hotel & Suites by Affinia
+old,3,Two Bedroom Apartment - West 58th Street
+towel,3,Two Bedroom Apartment - West 58th Street
+store,2,Two Bedroom Apartment - West 58th Street
+good,2,Two Bedroom Apartment - West 58th Street
+even,2,Two Bedroom Apartment - West 58th Street
+location,6,NYC apartments amazing location
+good,4,NYC apartments amazing location
+apartment,4,NYC apartments amazing location
+people,3,NYC apartments amazing location
+homeless,3,NYC apartments amazing location
+room,286,"Hotel Henri New York, A Wyndham Hotel"
+location,133,"Hotel Henri New York, A Wyndham Hotel"
+staff,128,"Hotel Henri New York, A Wyndham Hotel"
+hotel,109,"Hotel Henri New York, A Wyndham Hotel"
+bed,83,"Hotel Henri New York, A Wyndham Hotel"
+room,96,"The Chatwal, a Luxury Collection Hotel, New York City"
+staff,48,"The Chatwal, a Luxury Collection Hotel, New York City"
+location,43,"The Chatwal, a Luxury Collection Hotel, New York City"
+hotel,41,"The Chatwal, a Luxury Collection Hotel, New York City"
+great,31,"The Chatwal, a Luxury Collection Hotel, New York City"
+location,11,Times Square West Midtown Apartment
+great,10,Times Square West Midtown Apartment
+good,7,Times Square West Midtown Apartment
+bed,6,Times Square West Midtown Apartment
+really,5,Times Square West Midtown Apartment
+room,93,Soul Food (Mont Morris)
+staff,44,Soul Food (Mont Morris)
+nice,42,Soul Food (Mont Morris)
+place,37,Soul Food (Mont Morris)
+great,36,Soul Food (Mont Morris)
+location,11,Times Square Perfect Home
+stair,8,Times Square Perfect Home
+great,7,Times Square Perfect Home
+two,6,Times Square Perfect Home
+apartment,6,Times Square Perfect Home
+room,29,The Nomad Suites
+building,18,The Nomad Suites
+location,16,The Nomad Suites
+bed,12,The Nomad Suites
+clean,11,The Nomad Suites
+room,510,Hotel 31
+location,399,Hotel 31
+clean,263,Hotel 31
+hotel,261,Hotel 31
+bathroom,250,Hotel 31
+room,3,The Melva Inn
+it,2,The Melva Inn
+bathroom,2,The Melva Inn
+great,2,The Melva Inn
+harlem,2,The Melva Inn
+room,281,Hotel Elysee by Library Hotel Collection
+staff,239,Hotel Elysee by Library Hotel Collection
+breakfast,238,Hotel Elysee by Library Hotel Collection
+hotel,192,Hotel Elysee by Library Hotel Collection
+location,188,Hotel Elysee by Library Hotel Collection
+room,322,Mayfair New York Times Square
+location,276,Mayfair New York Times Square
+hotel,175,Mayfair New York Times Square
+staff,165,Mayfair New York Times Square
+time,133,Mayfair New York Times Square
+room,183,New York Marriott Downtown
+location,151,New York Marriott Downtown
+staff,111,New York Marriott Downtown
+hotel,85,New York Marriott Downtown
+great,77,New York Marriott Downtown
+room,159,Hotel Mimosa
+staff,116,Hotel Mimosa
+hotel,76,Hotel Mimosa
+clean,76,Hotel Mimosa
+location,58,Hotel Mimosa
+room,382,Avalon Hotel
+location,224,Avalon Hotel
+staff,196,Avalon Hotel
+hotel,161,Avalon Hotel
+great,157,Avalon Hotel
+staff,5,Hotel Alexander
+location,4,Hotel Alexander
+hotel,3,Hotel Alexander
+super,3,Hotel Alexander
+wifi,3,Hotel Alexander
+room,393,Hotel 91
+hotel,217,Hotel 91
+location,187,Hotel 91
+staff,179,Hotel 91
+clean,173,Hotel 91
+room,223,Comfort Inn Midtown West
+breakfast,133,Comfort Inn Midtown West
+staff,116,Comfort Inn Midtown West
+small,79,Comfort Inn Midtown West
+location,74,Comfort Inn Midtown West
+room,357,"Night Hotel Theater District, Times Square"
+location,215,"Night Hotel Theater District, Times Square"
+hotel,174,"Night Hotel Theater District, Times Square"
+staff,166,"Night Hotel Theater District, Times Square"
+great,113,"Night Hotel Theater District, Times Square"
+room,357,36 Hudson Hotel
+staff,159,36 Hudson Hotel
+location,146,36 Hudson Hotel
+hotel,115,36 Hudson Hotel
+small,112,36 Hudson Hotel
+location,78,Green Holidays Apartments
+room,67,Green Holidays Apartments
+apartment,44,Green Holidays Apartments
+building,36,Green Holidays Apartments
+clean,31,Green Holidays Apartments
+room,143,Off SoHo Suites Hotel
+location,105,Off SoHo Suites Hotel
+staff,75,Off SoHo Suites Hotel
+good,65,Off SoHo Suites Hotel
+great,64,Off SoHo Suites Hotel
+room,409,The William
+staff,183,The William
+hotel,180,The William
+location,151,The William
+great,137,The William
+room,302,Hotel Mulberry
+location,183,Hotel Mulberry
+breakfast,170,Hotel Mulberry
+hotel,155,Hotel Mulberry
+staff,151,Hotel Mulberry
+room,160,Holiday Inn New York City - Times Square
+location,100,Holiday Inn New York City - Times Square
+staff,93,Holiday Inn New York City - Times Square
+elevator,62,Holiday Inn New York City - Times Square
+hotel,58,Holiday Inn New York City - Times Square
+room,255,WestHouse Hotel New York
+breakfast,198,WestHouse Hotel New York
+hotel,197,WestHouse Hotel New York
+staff,184,WestHouse Hotel New York
+location,147,WestHouse Hotel New York
+room,81,W New York - Union Square
+staff,55,W New York - Union Square
+location,42,W New York - Union Square
+hotel,40,W New York - Union Square
+great,33,W New York - Union Square
+room,186,Comfort Inn Times Square West
+location,165,Comfort Inn Times Square West
+breakfast,137,Comfort Inn Times Square West
+staff,99,Comfort Inn Times Square West
+great,73,Comfort Inn Times Square West
+room,833,Midtown West Hotel
+location,413,Midtown West Hotel
+small,328,Midtown West Hotel
+staff,314,Midtown West Hotel
+hotel,245,Midtown West Hotel
+room,93,Sago Hotel
+staff,60,Sago Hotel
+great,51,Sago Hotel
+hotel,39,Sago Hotel
+location,38,Sago Hotel
+location,4,Beauty Near Times Square
+apartment,3,Beauty Near Times Square
+liked,2,Beauty Near Times Square
+many,2,Beauty Near Times Square
+everything,2,Beauty Near Times Square
+room,4,Luxury 2B/1B UWS GEM
+shop,3,Luxury 2B/1B UWS GEM
+sofa,3,Luxury 2B/1B UWS GEM
+bed,3,Luxury 2B/1B UWS GEM
+people,3,Luxury 2B/1B UWS GEM
+room,34,Studio Plus - Apartment Suites
+location,31,Studio Plus - Apartment Suites
+bed,17,Studio Plus - Apartment Suites
+clean,17,Studio Plus - Apartment Suites
+place,15,Studio Plus - Apartment Suites
+room,343,Fairfield Inn & Suites by Marriott New York Midtown Manhattan/Penn Station
+breakfast,310,Fairfield Inn & Suites by Marriott New York Midtown Manhattan/Penn Station
+location,240,Fairfield Inn & Suites by Marriott New York Midtown Manhattan/Penn Station
+staff,181,Fairfield Inn & Suites by Marriott New York Midtown Manhattan/Penn Station
+hotel,167,Fairfield Inn & Suites by Marriott New York Midtown Manhattan/Penn Station
+staff,211,Hotel Giraffe by Library Hotel Collection
+room,167,Hotel Giraffe by Library Hotel Collection
+hotel,154,Hotel Giraffe by Library Hotel Collection
+breakfast,141,Hotel Giraffe by Library Hotel Collection
+great,123,Hotel Giraffe by Library Hotel Collection
+room,100,The James New York - SoHo
+staff,75,The James New York - SoHo
+location,71,The James New York - SoHo
+great,67,The James New York - SoHo
+bar,56,The James New York - SoHo
+apartment,18,The Ideal 3 Bedroom Getaway by Central Park UWS
+good,11,The Ideal 3 Bedroom Getaway by Central Park UWS
+location,10,The Ideal 3 Bedroom Getaway by Central Park UWS
+great,8,The Ideal 3 Bedroom Getaway by Central Park UWS
+u,7,The Ideal 3 Bedroom Getaway by Central Park UWS
+bathroom,6,East Side 3 bedroom 2 bathroom (7)
+great,5,East Side 3 bedroom 2 bathroom (7)
+location,5,East Side 3 bedroom 2 bathroom (7)
+bed,4,East Side 3 bedroom 2 bathroom (7)
+apartment,4,East Side 3 bedroom 2 bathroom (7)
+everything,3,Richards Place
+really,2,Richards Place
+bed,2,Richards Place
+richard,2,Richards Place
+great,2,Richards Place
+great,11,Athenas Domus CS
+apartment,7,Athenas Domus CS
+location,7,Athenas Domus CS
+kitchen,4,Athenas Domus CS
+stay,4,Athenas Domus CS
+room,774,Hotel Mela Times Square
+location,490,Hotel Mela Times Square
+staff,309,Hotel Mela Times Square
+hotel,268,Hotel Mela Times Square
+small,236,Hotel Mela Times Square
+room,234,Carlton Arms Hotel
+location,145,Carlton Arms Hotel
+hotel,110,Carlton Arms Hotel
+staff,75,Carlton Arms Hotel
+bed,74,Carlton Arms Hotel
+room,268,Renaissance New York Hotel 57
+location,135,Renaissance New York Hotel 57
+staff,123,Renaissance New York Hotel 57
+hotel,111,Renaissance New York Hotel 57
+bed,95,Renaissance New York Hotel 57
+room,477,Chelsea Cabins
+location,403,Chelsea Cabins
+staff,351,Chelsea Cabins
+place,286,Chelsea Cabins
+good,265,Chelsea Cabins
+apartment,33,Two Bedroom Apartment - Between Park Ave & Lexington Avenue - Midtown East
+location,27,Two Bedroom Apartment - Between Park Ave & Lexington Avenue - Midtown East
+owner,14,Two Bedroom Apartment - Between Park Ave & Lexington Avenue - Midtown East
+would,12,Two Bedroom Apartment - Between Park Ave & Lexington Avenue - Midtown East
+clean,11,Two Bedroom Apartment - Between Park Ave & Lexington Avenue - Midtown East
+apartment,5,Midtown 60th Street Apartment
+bed,5,Midtown 60th Street Apartment
+good,4,Midtown 60th Street Apartment
+host,4,Midtown 60th Street Apartment
+dirty,4,Midtown 60th Street Apartment
+room,311,Fitzpatrick Manhattan
+staff,306,Fitzpatrick Manhattan
+location,183,Fitzpatrick Manhattan
+hotel,166,Fitzpatrick Manhattan
+friendly,137,Fitzpatrick Manhattan
+wash,4,Lovely Two Bedroom Apt
+cloth,4,Lovely Two Bedroom Apt
+apartment,3,Lovely Two Bedroom Apt
+landlord,3,Lovely Two Bedroom Apt
+clean,2,Lovely Two Bedroom Apt
+room,368,Jazz on the Park Youth Hostel
+location,211,Jazz on the Park Youth Hostel
+staff,205,Jazz on the Park Youth Hostel
+hostel,154,Jazz on the Park Youth Hostel
+bed,135,Jazz on the Park Youth Hostel
+room,123,Renaissance New York Times Square Hotel
+location,111,Renaissance New York Times Square Hotel
+staff,78,Renaissance New York Times Square Hotel
+time,75,Renaissance New York Times Square Hotel
+hotel,73,Renaissance New York Times Square Hotel
+room,124,W New York - Downtown
+location,70,W New York - Downtown
+staff,64,W New York - Downtown
+hotel,58,W New York - Downtown
+bed,44,W New York - Downtown
+room,66,The Marmara Manhattan
+staff,37,The Marmara Manhattan
+location,28,The Marmara Manhattan
+subway,24,The Marmara Manhattan
+hotel,23,The Marmara Manhattan
+room,474,Hotel Newton
+location,253,Hotel Newton
+hotel,229,Hotel Newton
+staff,206,Hotel Newton
+subway,173,Hotel Newton
+location,11,Manhattan Studio Apartment mid-west
+apartment,10,Manhattan Studio Apartment mid-west
+u,8,Manhattan Studio Apartment mid-west
+night,8,Manhattan Studio Apartment mid-west
+time,7,Manhattan Studio Apartment mid-west
+room,798,Broadway Hotel & Hostel
+staff,439,Broadway Hotel & Hostel
+location,349,Broadway Hotel & Hostel
+bathroom,253,Broadway Hotel & Hostel
+good,252,Broadway Hotel & Hostel
+room,238,San Carlos Hotel New York
+staff,199,San Carlos Hotel New York
+breakfast,194,San Carlos Hotel New York
+location,166,San Carlos Hotel New York
+hotel,142,San Carlos Hotel New York
+apartment,11,Steps from Times Square Central Park BEAUTIFUL 2 BDR APT
+time,5,Steps from Times Square Central Park BEAUTIFUL 2 BDR APT
+location,5,Steps from Times Square Central Park BEAUTIFUL 2 BDR APT
+good,5,Steps from Times Square Central Park BEAUTIFUL 2 BDR APT
+u,4,Steps from Times Square Central Park BEAUTIFUL 2 BDR APT
+room,221,Library Hotel by Library Hotel Collection
+staff,212,Library Hotel by Library Hotel Collection
+hotel,166,Library Hotel by Library Hotel Collection
+location,130,Library Hotel by Library Hotel Collection
+breakfast,127,Library Hotel by Library Hotel Collection
+apartment,11,Great Location Midtown East 35th Street and Third Ave
+bed,9,Great Location Midtown East 35th Street and Third Ave
+room,8,Great Location Midtown East 35th Street and Third Ave
+cash,8,Great Location Midtown East 35th Street and Third Ave
+back,8,Great Location Midtown East 35th Street and Third Ave
+room,261,Courtyard New York Manhattan/Upper East Side
+staff,167,Courtyard New York Manhattan/Upper East Side
+hotel,143,Courtyard New York Manhattan/Upper East Side
+location,121,Courtyard New York Manhattan/Upper East Side
+bed,102,Courtyard New York Manhattan/Upper East Side
+room,521,U.S. Pacific Hotel
+location,209,U.S. Pacific Hotel
+bed,205,U.S. Pacific Hotel
+bathroom,204,U.S. Pacific Hotel
+clean,185,U.S. Pacific Hotel
+room,327,Gild Hall - A Thompson Hotel
+staff,232,Gild Hall - A Thompson Hotel
+hotel,198,Gild Hall - A Thompson Hotel
+great,165,Gild Hall - A Thompson Hotel
+location,129,Gild Hall - A Thompson Hotel
+room,11,Jun New York Mid Town II
+location,9,Jun New York Mid Town II
+bed,6,Jun New York Mid Town II
+apartment,5,Jun New York Mid Town II
+host,5,Jun New York Mid Town II
+room,3,Athenas Domus HL
+location,3,Athenas Domus HL
+host,3,Athenas Domus HL
+studio,3,Athenas Domus HL
+property,3,Athenas Domus HL
+room,154,Hotel Americano
+staff,86,Hotel Americano
+hotel,80,Hotel Americano
+great,62,Hotel Americano
+pool,48,Hotel Americano
+apartment,24,Super Comfortable Times Sqr Central Park Broadway
+location,12,Super Comfortable Times Sqr Central Park Broadway
+great,11,Super Comfortable Times Sqr Central Park Broadway
+u,11,Super Comfortable Times Sqr Central Park Broadway
+bed,11,Super Comfortable Times Sqr Central Park Broadway
+apartment,7,Lower East Side 3 Bedroom
+clean,7,Lower East Side 3 Bedroom
+building,6,Lower East Side 3 Bedroom
+it,4,Lower East Side 3 Bedroom
+site,4,Lower East Side 3 Bedroom
+room,3,NYC Best apartment near the UN
+apartment,3,NYC Best apartment near the UN
+place,2,NYC Best apartment near the UN
+don’t,2,NYC Best apartment near the UN
+location,2,NYC Best apartment near the UN
+room,11,Hotel Five44
+shower,8,Hotel Five44
+hotel,8,Hotel Five44
+clean,7,Hotel Five44
+location,7,Hotel Five44
+location,201,Studio in Times Square
+time,109,Studio in Times Square
+room,103,Studio in Times Square
+bed,85,Studio in Times Square
+square,77,Studio in Times Square
+apartment,14,Jenny's Apartments - Upper East Side
+jenny,11,Jenny's Apartments - Upper East Side
+u,8,Jenny's Apartments - Upper East Side
+family,7,Jenny's Apartments - Upper East Side
+toilet,6,Jenny's Apartments - Upper East Side
+room,370,Econo Lodge Times Square
+location,243,Econo Lodge Times Square
+small,179,Econo Lodge Times Square
+staff,141,Econo Lodge Times Square
+breakfast,136,Econo Lodge Times Square
+location,9,#1Midtown Manhattan Loft Apartment
+apartment,6,#1Midtown Manhattan Loft Apartment
+bed,5,#1Midtown Manhattan Loft Apartment
+room,4,#1Midtown Manhattan Loft Apartment
+convenient,3,#1Midtown Manhattan Loft Apartment
+william,11,West 119th B&B
+nice,10,West 119th B&B
+host,9,West 119th B&B
+room,9,West 119th B&B
+great,8,West 119th B&B
+room,531,Michelangelo Hotel
+location,294,Michelangelo Hotel
+hotel,286,Michelangelo Hotel
+staff,283,Michelangelo Hotel
+great,173,Michelangelo Hotel
+room,310,Fitzpatrick Grand Central
+staff,304,Fitzpatrick Grand Central
+location,202,Fitzpatrick Grand Central
+hotel,186,Fitzpatrick Grand Central
+great,139,Fitzpatrick Grand Central
+room,7,Jun New York Mid Town I
+clean,6,Jun New York Mid Town I
+location,5,Jun New York Mid Town I
+check,5,Jun New York Mid Town I
+cleaning,4,Jun New York Mid Town I
+comfortable,3,One Bedroom Apartment - Mott Street #16
+lot,3,One Bedroom Apartment - Mott Street #16
+food,3,One Bedroom Apartment - Mott Street #16
+chinatown,3,One Bedroom Apartment - Mott Street #16
+ac,2,One Bedroom Apartment - Mott Street #16
+room,234,Morningside Inn
+bathroom,98,Morningside Inn
+staff,75,Morningside Inn
+location,68,Morningside Inn
+hotel,66,Morningside Inn
+room,171,The High Line Hotel
+hotel,106,The High Line Hotel
+staff,95,The High Line Hotel
+location,87,The High Line Hotel
+coffee,82,The High Line Hotel
+apartment,6,NYC Townhouse
+subway,5,NYC Townhouse
+great,5,NYC Townhouse
+comfortable,3,NYC Townhouse
+coffee,3,NYC Townhouse
+room,632,"The Paul, an Ascend Hotel Collection Member"
+breakfast,395,"The Paul, an Ascend Hotel Collection Member"
+hotel,312,"The Paul, an Ascend Hotel Collection Member"
+location,296,"The Paul, an Ascend Hotel Collection Member"
+staff,263,"The Paul, an Ascend Hotel Collection Member"
+room,464,Hotel 309
+location,286,Hotel 309
+staff,223,Hotel 309
+hotel,220,Hotel 309
+breakfast,208,Hotel 309
+apartment,5,Three-Bedroom Apartment West 25th Street
+everything,5,Three-Bedroom Apartment West 25th Street
+great,4,Three-Bedroom Apartment West 25th Street
+time,3,Three-Bedroom Apartment West 25th Street
+noisy,3,Three-Bedroom Apartment West 25th Street
+room,278,Parker New York
+location,147,Parker New York
+hotel,132,Parker New York
+staff,110,Parker New York
+pool,95,Parker New York
+location,55,Manhattan Studio Apartments
+room,39,Manhattan Studio Apartments
+apartment,31,Manhattan Studio Apartments
+good,30,Manhattan Studio Apartments
+building,25,Manhattan Studio Apartments
+staff,18,Lowell Hotel
+room,14,Lowell Hotel
+hotel,13,Lowell Hotel
+service,7,Lowell Hotel
+great,6,Lowell Hotel
+room,151,Edge Hotel Washington Heights
+staff,118,Edge Hotel Washington Heights
+breakfast,88,Edge Hotel Washington Heights
+clean,85,Edge Hotel Washington Heights
+hotel,66,Edge Hotel Washington Heights
+room,55,Mr C Seaport
+location,37,Mr C Seaport
+breakfast,34,Mr C Seaport
+staff,27,Mr C Seaport
+great,25,Mr C Seaport
+room,138,Duane Street Hotel Tribeca
+staff,102,Duane Street Hotel Tribeca
+location,70,Duane Street Hotel Tribeca
+great,62,Duane Street Hotel Tribeca
+hotel,58,Duane Street Hotel Tribeca
+apartment,13,"Times Sq, Broadway, Central Pk- Steps Away"
+location,8,"Times Sq, Broadway, Central Pk- Steps Away"
+also,7,"Times Sq, Broadway, Central Pk- Steps Away"
+u,6,"Times Sq, Broadway, Central Pk- Steps Away"
+card,6,"Times Sq, Broadway, Central Pk- Steps Away"
+nice,20,The Gallery House
+mark,17,The Gallery House
+host,16,The Gallery House
+subway,16,The Gallery House
+helpful,15,The Gallery House
+apartment,9,3 blocks from Times Square and quick walk to Central Park
+location,5,3 blocks from Times Square and quick walk to Central Park
+kitchen,5,3 blocks from Times Square and quick walk to Central Park
+great,4,3 blocks from Times Square and quick walk to Central Park
+old,4,3 blocks from Times Square and quick walk to Central Park
+location,6,Upper East One Bedroom Apartment
+property,6,Upper East One Bedroom Apartment
+key,5,Upper East One Bedroom Apartment
+easy,4,Upper East One Bedroom Apartment
+bed,4,Upper East One Bedroom Apartment
+room,500,The Mansfield Hotel
+location,237,The Mansfield Hotel
+hotel,160,The Mansfield Hotel
+staff,159,The Mansfield Hotel
+small,124,The Mansfield Hotel
+good,2,Hamilton Heights 4 Bedroom
+enough,2,Hamilton Heights 4 Bedroom
+u,2,Hamilton Heights 4 Bedroom
+lift,2,Hamilton Heights 4 Bedroom
+bathroom,2,Hamilton Heights 4 Bedroom
+room,235,Windsor Hotel
+location,151,Windsor Hotel
+bed,122,Windsor Hotel
+hotel,119,Windsor Hotel
+staff,116,Windsor Hotel
+room,87,Incentra Village Hotel
+location,69,Incentra Village Hotel
+staff,56,Incentra Village Hotel
+great,39,Incentra Village Hotel
+like,29,Incentra Village Hotel
+room,12,Lord & Moris
+location,6,Lord & Moris
+hotel,5,Lord & Moris
+bed,4,Lord & Moris
+towel,4,Lord & Moris
+room,102,"The Algonquin Hotel Times Square, Autograph Collection"
+staff,78,"The Algonquin Hotel Times Square, Autograph Collection"
+location,66,"The Algonquin Hotel Times Square, Autograph Collection"
+hotel,65,"The Algonquin Hotel Times Square, Autograph Collection"
+small,34,"The Algonquin Hotel Times Square, Autograph Collection"
+room,178,Colonial House Inn
+staff,118,Colonial House Inn
+location,100,Colonial House Inn
+breakfast,88,Colonial House Inn
+great,67,Colonial House Inn
+location,14,Jun New York Mid Town III
+room,10,Jun New York Mid Town III
+jun,10,Jun New York Mid Town III
+great,8,Jun New York Mid Town III
+comfortable,7,Jun New York Mid Town III
+room,325,Harlem YMCA
+staff,176,Harlem YMCA
+bathroom,130,Harlem YMCA
+clean,128,Harlem YMCA
+good,97,Harlem YMCA
+location,3,3 Bedroom modern apartment - Times Square
+time,2,3 Bedroom modern apartment - Times Square
+due,2,3 Bedroom modern apartment - Times Square
+great,2,3 Bedroom modern apartment - Times Square
+comfortable,2,3 Bedroom modern apartment - Times Square
+good,4,Midtown Times Square Apartment
+really,3,Midtown Times Square Apartment
+location,2,Midtown Times Square Apartment
+well,2,Midtown Times Square Apartment
+equipped,2,Midtown Times Square Apartment
+apartment,35,Historic Harlem Duplex
+great,30,Historic Harlem Duplex
+location,25,Historic Harlem Duplex
+nice,24,Historic Harlem Duplex
+place,21,Historic Harlem Duplex
+room,43,Canal Loft Hostel & Hotel
+clean,27,Canal Loft Hostel & Hotel
+location,26,Canal Loft Hostel & Hotel
+good,24,Canal Loft Hostel & Hotel
+bed,21,Canal Loft Hostel & Hotel
+location,13,Chelsea Art Suites
+u,13,Chelsea Art Suites
+would,10,Chelsea Art Suites
+anna,9,Chelsea Art Suites
+room,8,Chelsea Art Suites
+bedroom,4,East Side 3 Bedroom and 2 Bathroom Apartment (3)
+one,3,East Side 3 Bedroom and 2 Bathroom Apartment (3)
+2,3,East Side 3 Bedroom and 2 Bathroom Apartment (3)
+small,3,East Side 3 Bedroom and 2 Bathroom Apartment (3)
+mattress,3,East Side 3 Bedroom and 2 Bathroom Apartment (3)
+staff,258,Casablanca Hotel by Library Hotel Collection
+hotel,201,Casablanca Hotel by Library Hotel Collection
+location,189,Casablanca Hotel by Library Hotel Collection
+room,162,Casablanca Hotel by Library Hotel Collection
+great,134,Casablanca Hotel by Library Hotel Collection
+pierre,12,Maison le Grange
+great,9,Maison le Grange
+room,7,Maison le Grange
+clean,6,Maison le Grange
+apartment,6,Maison le Grange
+ac,3,Spacious studio in an elevator concierge building
+noisy,3,Spacious studio in an elevator concierge building
+location,2,Spacious studio in an elevator concierge building
+bit,2,Spacious studio in an elevator concierge building
+window,2,Spacious studio in an elevator concierge building
+room,53,The Greenwich Hotel
+hotel,44,The Greenwich Hotel
+staff,31,The Greenwich Hotel
+great,20,The Greenwich Hotel
+everything,16,The Greenwich Hotel
+room,61,Executive Class at MTS Hotel
+staff,22,Executive Class at MTS Hotel
+location,21,Executive Class at MTS Hotel
+bed,18,Executive Class at MTS Hotel
+breakfast,18,Executive Class at MTS Hotel
+room,186,The Wall Street Inn
+breakfast,143,The Wall Street Inn
+location,125,The Wall Street Inn
+hotel,112,The Wall Street Inn
+staff,98,The Wall Street Inn
+room,447,Central Park West Hostel
+location,270,Central Park West Hostel
+bathroom,213,Central Park West Hostel
+bed,189,Central Park West Hostel
+staff,157,Central Park West Hostel
+room,491,Royal Park Hotel & Hostel
+bathroom,222,Royal Park Hotel & Hostel
+location,204,Royal Park Hotel & Hostel
+staff,198,Royal Park Hotel & Hostel
+hotel,160,Royal Park Hotel & Hostel
+room,158,The Marmara Park Avenue
+hotel,85,The Marmara Park Avenue
+staff,81,The Marmara Park Avenue
+bed,42,The Marmara Park Avenue
+great,37,The Marmara Park Avenue
+location,47,New York Apartments
+apartment,37,New York Apartments
+bed,32,New York Apartments
+room,29,New York Apartments
+great,23,New York Apartments
+room,469,The Franklin Hotel
+hotel,231,The Franklin Hotel
+staff,216,The Franklin Hotel
+small,198,The Franklin Hotel
+breakfast,192,The Franklin Hotel
+apartment,15,Two Bedroom Apartment - East 34th Street
+location,13,Two Bedroom Apartment - East 34th Street
+building,10,Two Bedroom Apartment - East 34th Street
+bed,7,Two Bedroom Apartment - East 34th Street
+place,6,Two Bedroom Apartment - East 34th Street
+room,425,CITY ROOMS NYC - Chelsea
+staff,215,CITY ROOMS NYC - Chelsea
+location,183,CITY ROOMS NYC - Chelsea
+clean,152,CITY ROOMS NYC - Chelsea
+small,137,CITY ROOMS NYC - Chelsea
+room,473,The Maxwell New York City
+location,211,The Maxwell New York City
+hotel,186,The Maxwell New York City
+staff,146,The Maxwell New York City
+small,117,The Maxwell New York City
+room,109,Redford Hotel
+location,53,Redford Hotel
+bed,39,Redford Hotel
+hotel,38,Redford Hotel
+great,36,Redford Hotel
+room,261,Holiday Inn Wall Street
+staff,142,Holiday Inn Wall Street
+location,132,Holiday Inn Wall Street
+small,108,Holiday Inn Wall Street
+hotel,85,Holiday Inn Wall Street
+room,250,Fairfield Inn & Suites New York Manhattan/Downtown East
+breakfast,241,Fairfield Inn & Suites New York Manhattan/Downtown East
+hotel,170,Fairfield Inn & Suites New York Manhattan/Downtown East
+good,161,Fairfield Inn & Suites New York Manhattan/Downtown East
+staff,157,Fairfield Inn & Suites New York Manhattan/Downtown East
+staff,37,"The Ritz-Carlton New York, Central Park"
+room,34,"The Ritz-Carlton New York, Central Park"
+location,19,"The Ritz-Carlton New York, Central Park"
+view,13,"The Ritz-Carlton New York, Central Park"
+park,11,"The Ritz-Carlton New York, Central Park"
+apartment,20,Renovated Midtown East Apartments
+location,11,Renovated Midtown East Apartments
+u,9,Renovated Midtown East Apartments
+bed,7,Renovated Midtown East Apartments
+time,5,Renovated Midtown East Apartments
+loved,3,New private studio-apartment
+cute,3,New private studio-apartment
+made,3,New private studio-apartment
+like,3,New private studio-apartment
+bed,3,New private studio-apartment
+everything,5,Large 1 Bedroom Chinatown
+little,5,Large 1 Bedroom Chinatown
+bed,4,Large 1 Bedroom Chinatown
+street,4,Large 1 Bedroom Chinatown
+great,4,Large 1 Bedroom Chinatown
+room,6,Four Bedroom Apartment - Eldridge St. #38
+apartment,6,Four Bedroom Apartment - Eldridge St. #38
+one,5,Four Bedroom Apartment - Eldridge St. #38
+u,4,Four Bedroom Apartment - Eldridge St. #38
+shower,4,Four Bedroom Apartment - Eldridge St. #38
+room,231,6 Columbus - A SIXTY Hotel
+location,134,6 Columbus - A SIXTY Hotel
+hotel,91,6 Columbus - A SIXTY Hotel
+staff,89,6 Columbus - A SIXTY Hotel
+small,62,6 Columbus - A SIXTY Hotel
+location,32,Park Ave Apartments Midtown Next to Times Square
+apartment,26,Park Ave Apartments Midtown Next to Times Square
+bed,17,Park Ave Apartments Midtown Next to Times Square
+great,14,Park Ave Apartments Midtown Next to Times Square
+clean,13,Park Ave Apartments Midtown Next to Times Square
+location,6,NY Away - The ideal Family & Friends 4 Bedrooms / 4 Bathrooms in Manhattan
+one,5,NY Away - The ideal Family & Friends 4 Bedrooms / 4 Bathrooms in Manhattan
+stair,5,NY Away - The ideal Family & Friends 4 Bedrooms / 4 Bathrooms in Manhattan
+apartment,5,NY Away - The ideal Family & Friends 4 Bedrooms / 4 Bathrooms in Manhattan
+people,4,NY Away - The ideal Family & Friends 4 Bedrooms / 4 Bathrooms in Manhattan
+apartment,15,Full Studio Near The Central Park
+location,10,Full Studio Near The Central Park
+time,8,Full Studio Near The Central Park
+great,8,Full Studio Near The Central Park
+property,7,Full Studio Near The Central Park
+spacious,3,Central Park N Residence
+apartment,3,Central Park N Residence
+friendly,3,Central Park N Residence
+host,2,Central Park N Residence
+new,2,Central Park N Residence
+room,274,Holiday Inn Express - Wall Street
+breakfast,200,Holiday Inn Express - Wall Street
+staff,171,Holiday Inn Express - Wall Street
+location,143,Holiday Inn Express - Wall Street
+good,117,Holiday Inn Express - Wall Street
+place,11,The Madison House
+location,7,The Madison House
+clean,7,The Madison House
+apartment,7,The Madison House
+like,6,The Madison House
+apartment,27,Mid Town East 28th Street Apartments Next to Times Square
+location,27,Mid Town East 28th Street Apartments Next to Times Square
+good,20,Mid Town East 28th Street Apartments Next to Times Square
+bed,19,Mid Town East 28th Street Apartments Next to Times Square
+great,16,Mid Town East 28th Street Apartments Next to Times Square
+room,125,The Broome
+staff,109,The Broome
+hotel,94,The Broome
+breakfast,88,The Broome
+location,65,The Broome
+room,503,The Tuscany - A St Giles Signature Hotel
+staff,214,The Tuscany - A St Giles Signature Hotel
+location,199,The Tuscany - A St Giles Signature Hotel
+hotel,165,The Tuscany - A St Giles Signature Hotel
+great,151,The Tuscany - A St Giles Signature Hotel
+location,8,Midtown West Suites at 48th Street and Times Square
+room,7,Midtown West Suites at 48th Street and Times Square
+apartment,5,Midtown West Suites at 48th Street and Times Square
+time,4,Midtown West Suites at 48th Street and Times Square
+luggage,4,Midtown West Suites at 48th Street and Times Square
+room,337,The Benjamin
+location,177,The Benjamin
+staff,173,The Benjamin
+hotel,153,The Benjamin
+great,124,The Benjamin
+apartment,22,Gramercy Park Apartments
+location,13,Gramercy Park Apartments
+would,12,Gramercy Park Apartments
+key,11,Gramercy Park Apartments
+great,11,Gramercy Park Apartments
+room,219,Wyndham Midtown 45
+location,115,Wyndham Midtown 45
+staff,108,Wyndham Midtown 45
+hotel,80,Wyndham Midtown 45
+great,50,Wyndham Midtown 45
+room,12,Hello Broadway
+location,12,Hello Broadway
+small,12,Hello Broadway
+apartment,10,Hello Broadway
+stay,9,Hello Broadway
+apartment,25,Yorkville Apartments -Upper East Side
+location,17,Yorkville Apartments -Upper East Side
+great,9,Yorkville Apartments -Upper East Side
+u,9,Yorkville Apartments -Upper East Side
+nice,9,Yorkville Apartments -Upper East Side
+place,3,Hamilton Heights Beauty
+good,2,Hamilton Heights Beauty
+apartment,2,Hamilton Heights Beauty
+clean,2,Hamilton Heights Beauty
+like,2,Hamilton Heights Beauty
+room,14,Candy Hill Harlem
+location,9,Candy Hill Harlem
+building,8,Candy Hill Harlem
+bed,7,Candy Hill Harlem
+floor,6,Candy Hill Harlem
+apartment,12,Lincoln Center Luxury Apartments
+would,8,Lincoln Center Luxury Apartments
+bookingcom,6,Lincoln Center Luxury Apartments
+location,6,Lincoln Center Luxury Apartments
+never,5,Lincoln Center Luxury Apartments
+room,17,West 57th Street by Hilton Club
+location,13,West 57th Street by Hilton Club
+breakfast,12,West 57th Street by Hilton Club
+hotel,10,West 57th Street by Hilton Club
+staff,7,West 57th Street by Hilton Club
+room,184,Lex Hotel NYC
+staff,178,Lex Hotel NYC
+breakfast,96,Lex Hotel NYC
+location,91,Lex Hotel NYC
+friendly,78,Lex Hotel NYC
+room,7,Washington Heights Apartment
+night,4,Washington Heights Apartment
+walk,3,Washington Heights Apartment
+subway,3,Washington Heights Apartment
+station,3,Washington Heights Apartment
+apartment,10,Bryant Park Studio Apartment Times Square South
+location,7,Bryant Park Studio Apartment Times Square South
+time,6,Bryant Park Studio Apartment Times Square South
+everything,6,Bryant Park Studio Apartment Times Square South
+square,5,Bryant Park Studio Apartment Times Square South
+location,13,Midtown East Apartments
+apartment,12,Midtown East Apartments
+good,10,Midtown East Apartments
+room,6,Midtown East Apartments
+everything,5,Midtown East Apartments
+location,4,East Side 3 bed 2 bath (6)
+bit,4,East Side 3 bed 2 bath (6)
+good,3,East Side 3 bed 2 bath (6)
+bed,3,East Side 3 bed 2 bath (6)
+ideal,2,East Side 3 bed 2 bath (6)
+apartment,11,Central Affordable Three Bedroom Apartment
+great,9,Central Affordable Three Bedroom Apartment
+location,9,Central Affordable Three Bedroom Apartment
+one,8,Central Affordable Three Bedroom Apartment
+place,7,Central Affordable Three Bedroom Apartment
+location,4,Beautiful Downtown Apartments NYC
+apartment,3,Beautiful Downtown Apartments NYC
+floor,3,Beautiful Downtown Apartments NYC
+good,2,Beautiful Downtown Apartments NYC
+honest,2,Beautiful Downtown Apartments NYC
+room,464,The Grand NYC Apartments
+bathroom,320,The Grand NYC Apartments
+location,235,The Grand NYC Apartments
+floor,153,The Grand NYC Apartments
+shower,132,The Grand NYC Apartments
+room,203,Omni Berkshire Place
+location,118,Omni Berkshire Place
+staff,110,Omni Berkshire Place
+hotel,83,Omni Berkshire Place
+great,62,Omni Berkshire Place
+location,21,Studio Plus - One-Bedroom APT
+small,8,Studio Plus - One-Bedroom APT
+building,7,Studio Plus - One-Bedroom APT
+apartment,6,Studio Plus - One-Bedroom APT
+room,6,Studio Plus - One-Bedroom APT
+room,749,The Bowery House
+staff,388,The Bowery House
+location,372,The Bowery House
+bed,342,The Bowery House
+cabin,317,The Bowery House
+room,49,Central Park Studios
+location,37,Central Park Studios
+bathroom,24,Central Park Studios
+great,23,Central Park Studios
+floor,21,Central Park Studios
+location,7,One Bedroom Apartment - Allen Street # 28
+apartment,7,One Bedroom Apartment - Allen Street # 28
+great,5,One Bedroom Apartment - Allen Street # 28
+would,5,One Bedroom Apartment - Allen Street # 28
+nice,5,One Bedroom Apartment - Allen Street # 28
+staff,202,414 Hotel
+room,113,414 Hotel
+great,107,414 Hotel
+hotel,103,414 Hotel
+location,100,414 Hotel
+window,6,Renovated Studio Loft Downtown NYC #43
+floor,4,Renovated Studio Loft Downtown NYC #43
+trash,4,Renovated Studio Loft Downtown NYC #43
+location,4,Renovated Studio Loft Downtown NYC #43
+good,4,Renovated Studio Loft Downtown NYC #43
+great,5,Apartment Close to Time Square
+close,3,Apartment Close to Time Square
+big,3,Apartment Close to Time Square
+apartment,3,Apartment Close to Time Square
+location,2,Apartment Close to Time Square
+room,118,Clarion Hotel Park Avenue
+staff,60,Clarion Hotel Park Avenue
+location,60,Clarion Hotel Park Avenue
+breakfast,57,Clarion Hotel Park Avenue
+small,49,Clarion Hotel Park Avenue
+location,8,Steps From Times Sq and Central Park
+really,7,Steps From Times Sq and Central Park
+great,6,Steps From Times Sq and Central Park
+apartment,6,Steps From Times Sq and Central Park
+apt,5,Steps From Times Sq and Central Park
+location,4,"Studio 2 min Walk to Times Square, 9th Ave and Central Park"
+parking,4,"Studio 2 min Walk to Times Square, 9th Ave and Central Park"
+property,4,"Studio 2 min Walk to Times Square, 9th Ave and Central Park"
+great,3,"Studio 2 min Walk to Times Square, 9th Ave and Central Park"
+room,3,"Studio 2 min Walk to Times Square, 9th Ave and Central Park"
+room,46,Studio Apartments - West 31st Street
+location,37,Studio Apartments - West 31st Street
+bed,22,Studio Apartments - West 31st Street
+one,15,Studio Apartments - West 31st Street
+towel,15,Studio Apartments - West 31st Street
+room,134,Hampton Inn Seaport Financial District
+staff,89,Hampton Inn Seaport Financial District
+breakfast,76,Hampton Inn Seaport Financial District
+location,49,Hampton Inn Seaport Financial District
+hotel,46,Hampton Inn Seaport Financial District
+price,2,Spacious Private Bedroom in Bright Clean Apartment
+people,2,Spacious Private Bedroom in Bright Clean Apartment
+room,2,Spacious Private Bedroom in Bright Clean Apartment
+comfortable,2,Spacious Private Bedroom in Bright Clean Apartment
+midtown,2,Spacious Private Bedroom in Bright Clean Apartment
+room,192,The Park Ave North
+clean,84,The Park Ave North
+staff,80,The Park Ave North
+bed,72,The Park Ave North
+hotel,56,The Park Ave North
+small,4,Renovated 3 Bedroom Loft Manhattan #44
+apartment,4,Renovated 3 Bedroom Loft Manhattan #44
+friendly,3,Renovated 3 Bedroom Loft Manhattan #44
+clean,3,Renovated 3 Bedroom Loft Manhattan #44
+need,3,Renovated 3 Bedroom Loft Manhattan #44
+apartment,12,Times Square Studio
+location,8,Times Square Studio
+great,5,Times Square Studio
+good,5,Times Square Studio
+time,4,Times Square Studio
+location,3,Hamilton Heights: Luxurious 2 Bedroom Home
+card,3,Hamilton Heights: Luxurious 2 Bedroom Home
+subway,2,Hamilton Heights: Luxurious 2 Bedroom Home
+call,2,Hamilton Heights: Luxurious 2 Bedroom Home
+property,2,Hamilton Heights: Luxurious 2 Bedroom Home
+could,5,"Two-Bedroom Apartment, Express Subway at Columbia Hospital"
+night,5,"Two-Bedroom Apartment, Express Subway at Columbia Hospital"
+place,4,"Two-Bedroom Apartment, Express Subway at Columbia Hospital"
+apartment,4,"Two-Bedroom Apartment, Express Subway at Columbia Hospital"
+one,3,"Two-Bedroom Apartment, Express Subway at Columbia Hospital"
+apartment,14,NYC Townhouse Apartment
+great,8,NYC Townhouse Apartment
+ron,6,NYC Townhouse Apartment
+u,6,NYC Townhouse Apartment
+location,5,NYC Townhouse Apartment
+room,18,Saint Nicholas Inn
+breakfast,18,Saint Nicholas Inn
+great,12,Saint Nicholas Inn
+bathroom,11,Saint Nicholas Inn
+bed,8,Saint Nicholas Inn
+room,125,Interfaith Retreats
+staff,116,Interfaith Retreats
+location,86,Interfaith Retreats
+place,84,Interfaith Retreats
+people,59,Interfaith Retreats
+room,95,Holiday Inn Lower East Side
+staff,72,Holiday Inn Lower East Side
+location,55,Holiday Inn Lower East Side
+hotel,45,Holiday Inn Lower East Side
+clean,43,Holiday Inn Lower East Side
+pod,23,Nap York
+location,19,Nap York
+hour,19,Nap York
+great,17,Nap York
+stay,16,Nap York
+bed,7,Gramercy Superior Apartments
+location,6,Gramercy Superior Apartments
+host,5,Gramercy Superior Apartments
+good,5,Gramercy Superior Apartments
+u,3,Gramercy Superior Apartments
+room,314,Wyndham Garden Chinatown
+hotel,148,Wyndham Garden Chinatown
+staff,147,Wyndham Garden Chinatown
+location,137,Wyndham Garden Chinatown
+view,125,Wyndham Garden Chinatown
+location,4,668 6th Ave 3rd floor
+apartment,3,668 6th Ave 3rd floor
+restaurant,2,668 6th Ave 3rd floor
+owner,2,668 6th Ave 3rd floor
+didn’t,2,668 6th Ave 3rd floor
+location,13,Apartments Lincoln Center
+apartment,11,Apartments Lincoln Center
+subway,7,Apartments Lincoln Center
+could,7,Apartments Lincoln Center
+everything,6,Apartments Lincoln Center
+location,7,NY Away - Financial District 2-Bedrooms - 608
+apartment,5,NY Away - Financial District 2-Bedrooms - 608
+2,4,NY Away - Financial District 2-Bedrooms - 608
+bedroom,4,NY Away - Financial District 2-Bedrooms - 608
+bookingcom,3,NY Away - Financial District 2-Bedrooms - 608
+room,149,"Marriott Vacation Club Pulse, New York City"
+location,122,"Marriott Vacation Club Pulse, New York City"
+staff,117,"Marriott Vacation Club Pulse, New York City"
+bar,78,"Marriott Vacation Club Pulse, New York City"
+hotel,67,"Marriott Vacation Club Pulse, New York City"
+room,90,Courtyard by Marriott New York Manhattan / Soho
+staff,79,Courtyard by Marriott New York Manhattan / Soho
+location,59,Courtyard by Marriott New York Manhattan / Soho
+hotel,40,Courtyard by Marriott New York Manhattan / Soho
+bed,37,Courtyard by Marriott New York Manhattan / Soho
+room,37,Loft 109
+location,27,Loft 109
+subway,16,Loft 109
+great,15,Loft 109
+basement,13,Loft 109
+apartment,7,Studio Apartment - United Nations Plaza
+good,4,Studio Apartment - United Nations Plaza
+location,3,Studio Apartment - United Nations Plaza
+shower,3,Studio Apartment - United Nations Plaza
+noisy,3,Studio Apartment - United Nations Plaza
+apartment,7,Comfort 5 Min Times SQ
+good,6,Comfort 5 Min Times SQ
+location,5,Comfort 5 Min Times SQ
+carol,5,Comfort 5 Min Times SQ
+really,5,Comfort 5 Min Times SQ
+apartment,5,The Marc Suites at Times Square
+stay,5,The Marc Suites at Times Square
+location,5,The Marc Suites at Times Square
+resident,3,The Marc Suites at Times Square
+dirty,3,The Marc Suites at Times Square
+apartment,19,Superior Midtown East Apartments
+good,14,Superior Midtown East Apartments
+location,12,Superior Midtown East Apartments
+one,11,Superior Midtown East Apartments
+get,10,Superior Midtown East Apartments
+apartment,16,Studio Apartment - Financial District
+location,8,Studio Apartment - Financial District
+also,7,Studio Apartment - Financial District
+breakfast,7,Studio Apartment - Financial District
+all,6,Studio Apartment - Financial District
+quite,5,Stylish Upper East Side 2 bed 2 bath
+two,5,Stylish Upper East Side 2 bed 2 bath
+room,3,Stylish Upper East Side 2 bed 2 bath
+small,3,Stylish Upper East Side 2 bed 2 bath
+toilet,3,Stylish Upper East Side 2 bed 2 bath
+apartment,31,Best Location NYC in Union Square - Midtown East
+location,21,Best Location NYC in Union Square - Midtown East
+u,15,Best Location NYC in Union Square - Midtown East
+owner,14,Best Location NYC in Union Square - Midtown East
+good,12,Best Location NYC in Union Square - Midtown East
+apartment,5,Times Square Amazing 2 Bedroom
+u,3,Times Square Amazing 2 Bedroom
+would,3,Times Square Amazing 2 Bedroom
+time,3,Times Square Amazing 2 Bedroom
+since,3,Times Square Amazing 2 Bedroom
+apartment,11,Studio Apartment - East 31st Street #30
+location,7,Studio Apartment - East 31st Street #30
+good,5,Studio Apartment - East 31st Street #30
+bathroom,5,Studio Apartment - East 31st Street #30
+owner,4,Studio Apartment - East 31st Street #30
+room,562,Blue Moon Boutique Hostel & Hotel
+staff,245,Blue Moon Boutique Hostel & Hotel
+location,242,Blue Moon Boutique Hostel & Hotel
+bed,232,Blue Moon Boutique Hostel & Hotel
+hotel,192,Blue Moon Boutique Hostel & Hotel
+room,237,The Central Park North
+clean,82,The Central Park North
+bathroom,79,The Central Park North
+bed,79,The Central Park North
+location,78,The Central Park North
+clean,5,Four Bedroom Apartment - NYC
+room,3,Four Bedroom Apartment - NYC
+location,2,Four Bedroom Apartment - NYC
+great,2,Four Bedroom Apartment - NYC
+easy,2,Four Bedroom Apartment - NYC
+u,3,Upper East Suites
+good,3,Upper East Suites
+people,2,Upper East Suites
+shower,2,Upper East Suites
+get,2,Upper East Suites
+room,6,Shared Two Bedroom Apartment - Harlemville
+pay,3,Shared Two Bedroom Apartment - Harlemville
+apartment,3,Shared Two Bedroom Apartment - Harlemville
+looked,3,Shared Two Bedroom Apartment - Harlemville
+like,3,Shared Two Bedroom Apartment - Harlemville
+hostel,11,Be Local Chinatown
+great,7,Be Local Chinatown
+clean,7,Be Local Chinatown
+bed,7,Be Local Chinatown
+room,5,Be Local Chinatown
+room,22,The International Cozy Inn
+staff,11,The International Cozy Inn
+location,11,The International Cozy Inn
+friendly,10,The International Cozy Inn
+bed,10,The International Cozy Inn
+room,201,Manhattan Bowery Lodge
+bed,73,Manhattan Bowery Lodge
+location,67,Manhattan Bowery Lodge
+bathroom,67,Manhattan Bowery Lodge
+small,58,Manhattan Bowery Lodge
+apartment,38,Madison Avenue Luxury Two Bedroom Apartments Next to Times Square
+location,23,Madison Avenue Luxury Two Bedroom Apartments Next to Times Square
+room,22,Madison Avenue Luxury Two Bedroom Apartments Next to Times Square
+bedroom,14,Madison Avenue Luxury Two Bedroom Apartments Next to Times Square
+great,11,Madison Avenue Luxury Two Bedroom Apartments Next to Times Square
+location,29,PermaGO Wall Street
+room,23,PermaGO Wall Street
+clean,22,PermaGO Wall Street
+time,18,PermaGO Wall Street
+staff,17,PermaGO Wall Street
+location,29,Hostel - Chrystie Street
+room,29,Hostel - Chrystie Street
+apartment,22,Hostel - Chrystie Street
+bed,15,Hostel - Chrystie Street
+good,15,Hostel - Chrystie Street
+apartment,5,Two-Bedroom Apartment - Henry Street #42
+manhattan,4,Two-Bedroom Apartment - Henry Street #42
+subway,4,Two-Bedroom Apartment - Henry Street #42
+bridge,4,Two-Bedroom Apartment - Henry Street #42
+location,4,Two-Bedroom Apartment - Henry Street #42
