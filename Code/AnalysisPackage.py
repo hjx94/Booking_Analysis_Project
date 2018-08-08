@@ -2,7 +2,9 @@
 import collections
 import string
 import math
+import random
 import pandas as pd
+import numpy as np
 import seaborn as sns
 import statsmodels.api as sm
 from nltk.corpus import stopwords 
@@ -86,8 +88,6 @@ def data_cleaning(dataframe):
             if ch in df.loc[df.index[i],'Dist']:
                 df.loc[df.index[i],'Dist']= df.loc[df.index[i],'Dist'].replace(ch, '')
     df['Dist'] = (df['Dist'].str.strip('(' and ')')).astype(float)
-                
-                
     df = df.rename(index=str, columns={"Overall score": "Score", "Number of reviewers": 'numRev'})
     
     df['numRev'] = (df['numRev'].str.replace(',', '')).astype(float)  # convert number of reviewers to float
@@ -180,15 +180,18 @@ def merge_with_senti(df, senti):
 
 def display_table(df):
     print('')
-    df = df.rename(columns={"Cleanliness":"Clean","Comfort":"Comf","Value for money": "Money", "Facilities":"Facility","Free WiFi": "Wifi","Location":"Loc"}) 
+    df = df.rename(columns={"Cleanliness":"Clean","Value for money": "Money", "Facilities":"Facility","Free WiFi": "Wifi","Location":"Loc"}) 
     df.columns.values[11:-5] = [x.lower() for x in df.columns.values[11:-5]]
     df = df.reset_index(drop=True)
     if (df.shape[0] == 3):
         print ("I found these hotels for you:\n")
     else:
         print ("Below are the details for comparison.")
-    print (df[['name','Clean','Comf','Facility','Staff', 'Money','Wifi','Loc']]) # 'Dist'
-    print ("* Comf = Comfort, Money = Value for money, Loc = Location")
+#    print (df[['name','Clean','Comfort','Facility','Staff', 'Money','Wifi','Loc']]) # 'Dist'
+    print (df[['name','Clean','Comfort','Facility']]) # 'Dist'
+    print ('')
+    print (df[['name','Staff', 'Money','Wifi','Loc']])
+    print ("* Money = Value for money, Loc = Location")
     print ('')
 
 def print_fac(df):
@@ -213,12 +216,21 @@ def get_distance(hotelName, df):
     label = df[df['name'] == hotelName].Label.values
     df2 = df[df['Label'].values == label]
     i = 1
+    randomList = sorted(random.sample(range(0,df2.shape[0]), 3))
     for name in df2['name']:
         dist = 0
-        for col in df2.columns[2:-2]:
+        for col in df2.columns[2:-4]:
             dist += (df2.loc[df2['name'] == name][col].values - df2.loc[df2['name'] == hotelName][col].values)**2
         dic[name] = math.sqrt(dist)
-        print ("I'm calculating {} hotel's similarity in total.".format(i))
+        if i == 1:
+            print ("Comparing your choice to {} hotel.".format(i))
+        else:
+            print ("Comparing your choice to {} hotels.".format(i))
+        if i == randomList[0]:
+            print ('Squashing bugs while you wait...\n')
+        elif i == randomList[1]:
+            print ('Hang in there ...')
+        elif i == randomList[2]:
+            print ('Almost there!')
         i += 1
     return dic
-
